@@ -1,0 +1,3106 @@
+{
+    "chunks": [
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 0.0,
+            "End": 4.0,
+            "Text": " Hello everyone in this video we would be covering the topic area"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 4.0,
+            "End": 7.0,
+            "Text": " Now the questions that are made on the area, only two things are used in it."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 7.0,
+            "End": 10.0,
+            "Text": " One is the formula used, the other can be a little logic in the question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 10.0,
+            "End": 13.0,
+            "Text": " Okay, so let's start with the formula first."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 13.0,
+            "End": 18.0,
+            "Text": " First of all, the simple figure that we know is that it has become a square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 18.0,
+            "End": 22.0,
+            "Text": " So what is the area of this? If the side is A, then the area of this is A square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 22.0,
+            "End": 28.0,
+            "Text": " Okay, and its area is one more half into diagonal square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 28.0,
+            "End": 32.0,
+            "Text": " After this, what is the area of the rectangle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 32.0,
+            "End": 35.0,
+            "Text": " Okay, now let's talk about the triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 35.0,
+            "End": 40.0,
+            "Text": " Triangle can be of three types. Equilateral triangle, isosceles triangle or scalene triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 40.0,
+            "End": 45.0,
+            "Text": " Okay, one formula that is used in triangle is of area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 45.0,
+            "End": 49.0,
+            "Text": " It is half into base into height."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 49.0,
+            "End": 53.0,
+            "Text": " Okay, whatever triangle is equilateral, isosceles or scalene."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 53.0,
+            "End": 58.0,
+            "Text": " The formula is of height."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 58.0,
+            "End": 62.0,
+            "Text": " Okay, and what will be the base?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 62.0,
+            "End": 77.0,
+            "Text": " Okay, after this, one more formula of the triangle is under root of S into S-A, S-B, S-C."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 77.0,
+            "End": 81.0,
+            "Text": " When is this used? When we know only three sides."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 81.0,
+            "End": 85.0,
+            "Text": " We do not know the height and we do not have any other method to find its height."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 85.0,
+            "End": 90.0,
+            "Text": " But we know all three sides of the triangle, so we can find the area of this formula."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 90.0,
+            "End": 96.0,
+            "Text": " Now what is S in this? If S is not known, then S is equal to perimeter by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 96.0,
+            "End": 102.0,
+            "Text": " Perimeter by 2 means A plus B plus C by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 103.0,
+            "End": 112.0,
+            "Text": " Now one more concept that comes in triangle is that the triangle is a circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 112.0,
+            "End": 126.0,
+            "Text": " If we make a circle that fits inside it, then the circle is touching the sides of the triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 126.0,
+            "End": 130.0,
+            "Text": " Means the sides of the triangle are tangent to the circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 130.0,
+            "End": 132.0,
+            "Text": " So we call it as inscribed."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 132.0,
+            "End": 135.0,
+            "Text": " The circle is inscribed in the triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 135.0,
+            "End": 153.0,
+            "Text": " And if a circle is like this, just touching the vertices of the triangle, then we call it as circumscribed."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 153.0,
+            "End": 157.0,
+            "Text": " Now these two terms can be used in question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 157.0,
+            "End": 161.0,
+            "Text": " So what we need to know here?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 161.0,
+            "End": 172.0,
+            "Text": " If this line is from the center, then this line is radius of small circle and this line is radius of big circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 173.0,
+            "End": 176.0,
+            "Text": " So how can we find the radius of small circle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 176.0,
+            "End": 186.0,
+            "Text": " The radius of the circle which is inscribed is A by 2 root 3."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 187.0,
+            "End": 205.0,
+            "Text": " And the radius of circumscribed circle is just double of radius of small circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 205.0,
+            "End": 214.0,
+            "Text": " Now if we know this, then we can easily find the radius of big circle, circumscribed circle and inscribed circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 214.0,
+            "End": 218.0,
+            "Text": " But when this triangle is equilateral triangle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 218.0,
+            "End": 222.0,
+            "Text": " In this formula, A is the side of this triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 222.0,
+            "End": 225.0,
+            "Text": " Means this is the equilateral triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 225.0,
+            "End": 228.0,
+            "Text": " Now in equilateral triangle, there is one more thing."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 228.0,
+            "End": 231.0,
+            "Text": " Like this is equilateral triangle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 231.0,
+            "End": 235.0,
+            "Text": " So its formula is half into base into height of area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 235.0,
+            "End": 240.0,
+            "Text": " Its height is root 3 A by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 241.0,
+            "End": 245.0,
+            "Text": " Now let's talk about quadrilaterals."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 245.0,
+            "End": 254.0,
+            "Text": " Like a parallelogram, it has opposite sides parallel and its two diagonals are of different length."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 254.0,
+            "End": 256.0,
+            "Text": " So D1 and D2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 256.0,
+            "End": 264.0,
+            "Text": " So the area of this parallelogram is base into height."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 264.0,
+            "End": 268.0,
+            "Text": " In which base is this and height is this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 268.0,
+            "End": 272.0,
+            "Text": " Because we take perpendicular height."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 272.0,
+            "End": 277.0,
+            "Text": " This is the height and this is the base."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 277.0,
+            "End": 287.0,
+            "Text": " And the other formula of this area is half into D1 into D2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 287.0,
+            "End": 292.0,
+            "Text": " Now what is rhombus?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 292.0,
+            "End": 295.0,
+            "Text": " Rhombus is also a parallelogram whose all four sides are equal."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 296.0,
+            "End": 298.0,
+            "Text": " So this is rhombus."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 298.0,
+            "End": 302.0,
+            "Text": " And what is the difference between rhombus and square?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 302.0,
+            "End": 305.0,
+            "Text": " If you make angles of rhombus 90 degree, it will become square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 305.0,
+            "End": 307.0,
+            "Text": " So square is also a kind of rhombus."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 307.0,
+            "End": 310.0,
+            "Text": " So if we talk about rhombus, it is a parallelogram."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 310.0,
+            "End": 314.0,
+            "Text": " And its all four sides are equal but its diagonals are not equal."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 314.0,
+            "End": 317.0,
+            "Text": " Diagonals are not equal, sides are equal."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 317.0,
+            "End": 320.0,
+            "Text": " If diagonals are equal, it means angles are 90 degree and it becomes square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 320.0,
+            "End": 325.0,
+            "Text": " Square is also a kind of rhombus whose angles are 90 degree."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 325.0,
+            "End": 330.0,
+            "Text": " So the area of this will be the same formula of parallelogram."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 330.0,
+            "End": 332.0,
+            "Text": " Because this is also a parallelogram."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 332.0,
+            "End": 336.0,
+            "Text": " Now let's talk about trapezium."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 336.0,
+            "End": 338.0,
+            "Text": " What is trapezium?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 338.0,
+            "End": 340.0,
+            "Text": " Trapezium is a figure like this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 340.0,
+            "End": 345.0,
+            "Text": " Its only condition is that both sides are parallel."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 346.0,
+            "End": 349.0,
+            "Text": " Other than this, anything can happen."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 349.0,
+            "End": 353.0,
+            "Text": " Like these two sides are parallel or not, we can't say anything."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 353.0,
+            "End": 356.0,
+            "Text": " These two sides are equal or not, we can't say anything."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 356.0,
+            "End": 358.0,
+            "Text": " There is no condition on other two sides."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 358.0,
+            "End": 360.0,
+            "Text": " This is also a trapezium."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 360.0,
+            "End": 362.0,
+            "Text": " This is also a trapezium."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 365.0,
+            "End": 367.0,
+            "Text": " This is also a trapezium."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 368.0,
+            "End": 371.0,
+            "Text": " What is the formula of area of trapezium?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 371.0,
+            "End": 374.0,
+            "Text": " Half into sum of parallel sides."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 376.0,
+            "End": 380.0,
+            "Text": " Sum of parallel sides into height."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 381.0,
+            "End": 388.0,
+            "Text": " If its parallel sides are A and B, then the formula will be"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 388.0,
+            "End": 392.0,
+            "Text": " Half into A plus B into H."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 395.0,
+            "End": 397.0,
+            "Text": " Let's talk about circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 397.0,
+            "End": 399.0,
+            "Text": " What is circle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 399.0,
+            "End": 401.0,
+            "Text": " This is a circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 401.0,
+            "End": 403.0,
+            "Text": " What is the area of this circle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 403.0,
+            "End": 405.0,
+            "Text": " We know that the area of circle is Pi R square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 405.0,
+            "End": 411.0,
+            "Text": " We are considering the area from here to here."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 413.0,
+            "End": 419.0,
+            "Text": " If I tell you the area of semicircle, then we have covered half of it."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 419.0,
+            "End": 423.0,
+            "Text": " Earlier we were looking at 360 degree, now we are looking at 180 degree."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 423.0,
+            "End": 427.0,
+            "Text": " So we know that if half of the circle is there, then Pi R square by 2 will be the area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 427.0,
+            "End": 429.0,
+            "Text": " We can give any other angle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 429.0,
+            "End": 431.0,
+            "Text": " We have given 180 degree."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 431.0,
+            "End": 433.0,
+            "Text": " Suppose we say that the angle is theta."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 433.0,
+            "End": 435.0,
+            "Text": " And tell me the area of this circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 435.0,
+            "End": 437.0,
+            "Text": " So how will this be?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 437.0,
+            "End": 439.0,
+            "Text": " Using simple unitary method."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 439.0,
+            "End": 445.0,
+            "Text": " The area of 360 degree is Pi R square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 445.0,
+            "End": 447.0,
+            "Text": " What is the area of 1 degree?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 447.0,
+            "End": 451.0,
+            "Text": " Pi R square by 360."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 451.0,
+            "End": 453.0,
+            "Text": " We have taken it from here."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 453.0,
+            "End": 461.0,
+            "Text": " If you see 180 degree, then it will be 180 by 360 into Pi R square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 461.0,
+            "End": 463.0,
+            "Text": " And this will be 1 by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 463.0,
+            "End": 465.0,
+            "Text": " So it will be Pi R square by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 465.0,
+            "End": 473.0,
+            "Text": " If the angle is theta, then the area of that sector will be?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 473.0,
+            "End": 475.0,
+            "Text": " We call this thing sector."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 477.0,
+            "End": 479.0,
+            "Text": " This thing is called sector."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 479.0,
+            "End": 481.0,
+            "Text": " Sector of the circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 483.0,
+            "End": 485.0,
+            "Text": " So what will be the area of sector?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 485.0,
+            "End": 495.0,
+            "Text": " If the angle is theta, then it will be theta upon 360 into Pi R square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 495.0,
+            "End": 497.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 497.0,
+            "End": 499.0,
+            "Text": " This is the area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 499.0,
+            "End": 501.0,
+            "Text": " If you want to talk about arc in circle, then it is also simple."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 501.0,
+            "End": 505.0,
+            "Text": " If it is circle, then what will be the circumference?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 505.0,
+            "End": 507.0,
+            "Text": " 2 Pi R."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 507.0,
+            "End": 509.0,
+            "Text": " If you want to give theta angle, then it is theta degree."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 509.0,
+            "End": 511.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 511.0,
+            "End": 513.0,
+            "Text": " So what will be the length of this arc?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 513.0,
+            "End": 515.0,
+            "Text": " We call it length of arc."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 515.0,
+            "End": 521.0,
+            "Text": " So it will be theta upon 360 into 2 Pi R."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 521.0,
+            "End": 523.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 523.0,
+            "End": 525.0,
+            "Text": " This is the first question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 525.0,
+            "End": 531.0,
+            "Text": " If each side of a square is increased by 150%, find the increased percent in its area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 531.0,
+            "End": 533.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 533.0,
+            "End": 539.0,
+            "Text": " Earlier if the side of square was A, then now 150% has increased."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 539.0,
+            "End": 543.0,
+            "Text": " So A plus 150% of A."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 543.0,
+            "End": 545.0,
+            "Text": " Now how much is the side?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 545.0,
+            "End": 547.0,
+            "Text": " Let's find out."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 547.0,
+            "End": 553.0,
+            "Text": " A plus 150 by 100 A."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 553.0,
+            "End": 561.0,
+            "Text": " So it is A plus 3 by 2 A is equal to 5 A by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 561.0,
+            "End": 563.0,
+            "Text": " So this is our new side."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 563.0,
+            "End": 565.0,
+            "Text": " Earlier it was A, now it is 150%."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 565.0,
+            "End": 567.0,
+            "Text": " So it is 5 A by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 567.0,
+            "End": 571.0,
+            "Text": " Now it asks, find the increased percent in its area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 571.0,
+            "End": 573.0,
+            "Text": " Now how much will be increased in its area?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 573.0,
+            "End": 577.0,
+            "Text": " Earlier it was A square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 577.0,
+            "End": 579.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 579.0,
+            "End": 581.0,
+            "Text": " Now how much is it?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 581.0,
+            "End": 587.0,
+            "Text": " It is 5 A by 2, so it will be 25 A square by 4."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 587.0,
+            "End": 589.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 589.0,
+            "End": 591.0,
+            "Text": " Now we have to find the percentage of increase."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 591.0,
+            "End": 593.0,
+            "Text": " So how much is the increase?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 593.0,
+            "End": 597.0,
+            "Text": " Increase upon actual into 100."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 597.0,
+            "End": 599.0,
+            "Text": " So let's find the increase."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 599.0,
+            "End": 601.0,
+            "Text": " How much is the increase?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 601.0,
+            "End": 605.0,
+            "Text": " 25 A square by 4 minus A square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 605.0,
+            "End": 607.0,
+            "Text": " It will be 4 L."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 607.0,
+            "End": 611.0,
+            "Text": " So it is 21 A square by 4."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 611.0,
+            "End": 613.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 613.0,
+            "End": 615.0,
+            "Text": " So much increase in the area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 615.0,
+            "End": 617.0,
+            "Text": " So how much will be the percentage increase?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 617.0,
+            "End": 619.0,
+            "Text": " Percentage increase."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 619.0,
+            "End": 621.0,
+            "Text": " It will be like this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 621.0,
+            "End": 629.0,
+            "Text": " Increase upon actual into 100."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 629.0,
+            "End": 631.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 631.0,
+            "End": 633.0,
+            "Text": " How much is the increase?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 633.0,
+            "End": 635.0,
+            "Text": " 21 by 4 A square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 635.0,
+            "End": 637.0,
+            "Text": " How much is the actual?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 637.0,
+            "End": 639.0,
+            "Text": " A square into 100."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 639.0,
+            "End": 641.0,
+            "Text": " A square by A square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 641.0,
+            "End": 645.0,
+            "Text": " This is equal to 21 by 4 into 100."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 645.0,
+            "End": 647.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 647.0,
+            "End": 649.0,
+            "Text": " 25 by 4."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 649.0,
+            "End": 651.0,
+            "Text": " It will be 25 by 25."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 651.0,
+            "End": 653.0,
+            "Text": " 2 carry 52."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 653.0,
+            "End": 655.0,
+            "Text": " 525 percent increase in the area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 655.0,
+            "End": 657.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 657.0,
+            "End": 659.0,
+            "Text": " This is one zone."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 659.0,
+            "End": 661.0,
+            "Text": " Okay."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 661.0,
+            "End": 663.0,
+            "Text": " Next question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 663.0,
+            "End": 665.0,
+            "Text": " The arc of length 22 cm of a circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 665.0,
+            "End": 667.0,
+            "Text": " substains an angle of 72 degree at the center."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 667.0,
+            "End": 669.0,
+            "Text": " What is the radius of the circle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 669.0,
+            "End": 671.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 671.0,
+            "End": 673.0,
+            "Text": " Now I will tell you the length of the arc."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 673.0,
+            "End": 675.0,
+            "Text": " This is the radius of the circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 675.0,
+            "End": 677.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 677.0,
+            "End": 679.0,
+            "Text": " Now we have given the length of the arc and theta."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 679.0,
+            "End": 681.0,
+            "Text": " And we have to find the radius."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 681.0,
+            "End": 683.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 683.0,
+            "End": 685.0,
+            "Text": " We will draw first."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 685.0,
+            "End": 687.0,
+            "Text": " This is our circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 687.0,
+            "End": 689.0,
+            "Text": " This is an angle of 72 degree."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 689.0,
+            "End": 691.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 691.0,
+            "End": 693.0,
+            "Text": " And what is the length of this?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 693.0,
+            "End": 695.0,
+            "Text": " 22 cm."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 695.0,
+            "End": 697.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 697.0,
+            "End": 699.0,
+            "Text": " Now we know how to find the length of the arc."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 699.0,
+            "End": 701.0,
+            "Text": " Theta upon 360."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 701.0,
+            "End": 703.0,
+            "Text": " Into"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 703.0,
+            "End": 705.0,
+            "Text": " circumference."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 705.0,
+            "End": 707.0,
+            "Text": " 2 by r."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 707.0,
+            "End": 709.0,
+            "Text": " This is given as 22."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 709.0,
+            "End": 711.0,
+            "Text": " And theta is given as 72."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 713.0,
+            "End": 715.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 715.0,
+            "End": 717.0,
+            "Text": " Now we will calculate this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 717.0,
+            "End": 719.0,
+            "Text": " 6 times 6 is equal to 0."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 719.0,
+            "End": 721.0,
+            "Text": " 6 times 6 is equal to 12."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 721.0,
+            "End": 723.0,
+            "Text": " 6 times 6 is equal to 10."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 723.0,
+            "End": 725.0,
+            "Text": " 6 times 6 is equal to 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 725.0,
+            "End": 727.0,
+            "Text": " 1 times 6 is equal to 5."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 727.0,
+            "End": 729.0,
+            "Text": " 2 by r by 5 is equal to 22."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 731.0,
+            "End": 733.0,
+            "Text": " And this is"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 733.0,
+            "End": 735.0,
+            "Text": " r is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 735.0,
+            "End": 737.0,
+            "Text": " 22 into 5 upon"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 737.0,
+            "End": 739.0,
+            "Text": " 2 into pi."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 739.0,
+            "End": 741.0,
+            "Text": " We will write this as"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 741.0,
+            "End": 743.0,
+            "Text": " 22 into 5 upon 2"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 743.0,
+            "End": 745.0,
+            "Text": " into 22 by 7."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 745.0,
+            "End": 747.0,
+            "Text": " This is cut."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 747.0,
+            "End": 749.0,
+            "Text": " This is r."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 749.0,
+            "End": 751.0,
+            "Text": " 35 by 2"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 751.0,
+            "End": 753.0,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 753.0,
+            "End": 755.0,
+            "Text": " 17.5 cm."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 755.0,
+            "End": 757.0,
+            "Text": " This is the radius."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 757.0,
+            "End": 759.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 759.0,
+            "End": 761.0,
+            "Text": " Okay."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 761.0,
+            "End": 763.0,
+            "Text": " Now a question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 775.0,
+            "End": 777.0,
+            "Text": " Now they have not given any details"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 777.0,
+            "End": 779.0,
+            "Text": " about the dimension of the square,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 779.0,
+            "End": 781.0,
+            "Text": " the radius of the circle, anything."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 781.0,
+            "End": 783.0,
+            "Text": " We can consider anything."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 783.0,
+            "End": 785.0,
+            "Text": " It will be cancelled later."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 785.0,
+            "End": 787.0,
+            "Text": " So, there is a square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 787.0,
+            "End": 789.0,
+            "Text": " One circle is inscribed"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 789.0,
+            "End": 791.0,
+            "Text": " and the other is circumscribed."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 791.0,
+            "End": 793.0,
+            "Text": " Like we have studied triangle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 793.0,
+            "End": 795.0,
+            "Text": " inscribed and circumscribed."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 795.0,
+            "End": 797.0,
+            "Text": " Now we have to find the ratio"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 797.0,
+            "End": 799.0,
+            "Text": " of the area of both the circles."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 799.0,
+            "End": 801.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 801.0,
+            "End": 803.0,
+            "Text": " This is our square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 803.0,
+            "End": 805.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 805.0,
+            "End": 807.0,
+            "Text": " Now how will the inscribed circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 807.0,
+            "End": 809.0,
+            "Text": " be formed?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 811.0,
+            "End": 813.0,
+            "Text": " Something like this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 813.0,
+            "End": 815.0,
+            "Text": " It is touching the lines."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 815.0,
+            "End": 817.0,
+            "Text": " And how will the circumscribed circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 817.0,
+            "End": 819.0,
+            "Text": " be formed?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 821.0,
+            "End": 823.0,
+            "Text": " Now we have to find the ratio"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 823.0,
+            "End": 825.0,
+            "Text": " of the area of both the circles."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 825.0,
+            "End": 827.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 827.0,
+            "End": 829.0,
+            "Text": " So, we need radius for the area of the circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 829.0,
+            "End": 831.0,
+            "Text": " Pi r square formula."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 831.0,
+            "End": 833.0,
+            "Text": " We just have to find the radius."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 833.0,
+            "End": 835.0,
+            "Text": " If we find the radius, we will get the answer."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 835.0,
+            "End": 837.0,
+            "Text": " We will find the ratio of the area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 837.0,
+            "End": 839.0,
+            "Text": " Now what can we see in this?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 839.0,
+            "End": 841.0,
+            "Text": " We can see that the radius of this circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 841.0,
+            "End": 843.0,
+            "Text": " will be this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 843.0,
+            "End": 845.0,
+            "Text": " And the radius of the bigger circle will be this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 845.0,
+            "End": 847.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 847.0,
+            "End": 849.0,
+            "Text": " Let's talk about the smaller circle first."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 849.0,
+            "End": 851.0,
+            "Text": " If we draw the whole circle,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 851.0,
+            "End": 853.0,
+            "Text": " then the diameter of the smaller circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 853.0,
+            "End": 855.0,
+            "Text": " will be this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 855.0,
+            "End": 857.0,
+            "Text": " But is this and this not equal?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 857.0,
+            "End": 859.0,
+            "Text": " Because this red circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 859.0,
+            "End": 861.0,
+            "Text": " is touching the lines"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 861.0,
+            "End": 863.0,
+            "Text": " from all sides."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 863.0,
+            "End": 865.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 865.0,
+            "End": 867.0,
+            "Text": " So, the diameter of this circle will be"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 867.0,
+            "End": 869.0,
+            "Text": " equal to the diameter of the square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 869.0,
+            "End": 871.0,
+            "Text": " So, I am assuming that"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 871.0,
+            "End": 873.0,
+            "Text": " the radius of the smaller circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 873.0,
+            "End": 875.0,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 875.0,
+            "End": 877.0,
+            "Text": " the radius of the bigger circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 879.0,
+            "End": 881.0,
+            "Text": " The diameter of the bigger circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 881.0,
+            "End": 883.0,
+            "Text": " is equal to the radius of the square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 883.0,
+            "End": 885.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 885.0,
+            "End": 887.0,
+            "Text": " Now let's talk about the bigger circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 887.0,
+            "End": 889.0,
+            "Text": " If you see the diagonal of the bigger circle,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 889.0,
+            "End": 891.0,
+            "Text": " the square's diagonal,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 891.0,
+            "End": 893.0,
+            "Text": " then this is the diameter of the bigger circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 893.0,
+            "End": 895.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 895.0,
+            "End": 897.0,
+            "Text": " So, 2 times capital R"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 897.0,
+            "End": 899.0,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 899.0,
+            "End": 901.0,
+            "Text": " the diagonal of the square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 901.0,
+            "End": 903.0,
+            "Text": " Now, what is the diagonal?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 903.0,
+            "End": 905.0,
+            "Text": " It is the diagonal of the square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 905.0,
+            "End": 907.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 907.0,
+            "End": 909.0,
+            "Text": " Now, we have to find the diagonal of the square."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 909.0,
+            "End": 911.0,
+            "Text": " So, if we know"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 911.0,
+            "End": 913.0,
+            "Text": " that the one side of the square"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 913.0,
+            "End": 915.0,
+            "Text": " is A and the other side is also A,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 915.0,
+            "End": 917.0,
+            "Text": " all sides of the square are A,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 917.0,
+            "End": 919.0,
+            "Text": " then this is A, this is A,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 919.0,
+            "End": 921.0,
+            "Text": " and this is 90 degrees."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 921.0,
+            "End": 923.0,
+            "Text": " So, we can find the length of the hypotenuse"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 923.0,
+            "End": 925.0,
+            "Text": " from Pythagoras theorem."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 925.0,
+            "End": 927.0,
+            "Text": " How much will be the length of the hypotenuse?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 927.0,
+            "End": 929.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 929.0,
+            "End": 931.0,
+            "Text": " How much will be the length of the hypotenuse?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 931.0,
+            "End": 933.0,
+            "Text": " It will be A and A."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 933.0,
+            "End": 935.0,
+            "Text": " So, how much will be the hypotenuse?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 935.0,
+            "End": 937.0,
+            "Text": " It will be A square plus"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 937.0,
+            "End": 939.0,
+            "Text": " A square whole under root 2"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 939.0,
+            "End": 941.0,
+            "Text": " A square whole under root."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 941.0,
+            "End": 943.0,
+            "Text": " So, it will be A root 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 943.0,
+            "End": 945.0,
+            "Text": " Okay? What will be the diagonal?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 945.0,
+            "End": 947.0,
+            "Text": " It is the diagonal."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 947.0,
+            "End": 949.0,
+            "Text": " So, 2R is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 949.0,
+            "End": 951.0,
+            "Text": " the diagonal of the square"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 951.0,
+            "End": 953.0,
+            "Text": " which is A root 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 953.0,
+            "End": 955.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 955.0,
+            "End": 957.0,
+            "Text": " What will be the radius of the circumscribed circle?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 957.0,
+            "End": 959.0,
+            "Text": " It will be A root 2 by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 959.0,
+            "End": 961.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 961.0,
+            "End": 963.0,
+            "Text": " Now, we have to find the ratio of the area."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 963.0,
+            "End": 965.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 965.0,
+            "End": 967.0,
+            "Text": " To find the ratio of the area,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 967.0,
+            "End": 969.0,
+            "Text": " we have to find the ratio of"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 969.0,
+            "End": 971.0,
+            "Text": " Pi R square of the inscribed circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 971.0,
+            "End": 973.0,
+            "Text": " and Pi R capital R square of the circumscribed circle."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 973.0,
+            "End": 975.0,
+            "Text": " It will be Pi."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 975.0,
+            "End": 977.0,
+            "Text": " What will be the radius of the small?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 977.0,
+            "End": 979.0,
+            "Text": " It will be A by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 981.0,
+            "End": 983.0,
+            "Text": " Square of A by 2"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 983.0,
+            "End": 985.0,
+            "Text": " upon Pi"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 985.0,
+            "End": 987.0,
+            "Text": " A square root 2 by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 987.0,
+            "End": 989.0,
+            "Text": " Okay?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 989.0,
+            "End": 991.0,
+            "Text": " Pi will be cut."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 991.0,
+            "End": 993.0,
+            "Text": " Let it be."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 993.0,
+            "End": 995.0,
+            "Text": " Square of A by 2 upon"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 995.0,
+            "End": 997.0,
+            "Text": " If you take A by 2 out of this,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 997.0,
+            "End": 999.0,
+            "Text": " then square of A by 2"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 999.0,
+            "End": 1001.0,
+            "Text": " and square of root 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1001.0,
+            "End": 1003.0,
+            "Text": " This will also be cut."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1003.0,
+            "End": 1005.0,
+            "Text": " So, it will be 1 by 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1005.0,
+            "End": 1007.0,
+            "Text": " What will be the answer?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1007.0,
+            "End": 1009.0,
+            "Text": " Answer is 1 is to 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1009.0,
+            "End": 1011.0,
+            "Text": " This is the ratio."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1011.0,
+            "End": 1013.0,
+            "Text": " Ratio of the"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1013.0,
+            "End": 1015.0,
+            "Text": " If there is any square,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1015.0,
+            "End": 1017.0,
+            "Text": " then the ratio of the inscribed circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1017.0,
+            "End": 1019.0,
+            "Text": " and circumscribed circle"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1019.0,
+            "End": 1021.0,
+            "Text": " will be 1 is to 2."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1021.0,
+            "End": 1023.0,
+            "Text": " Next question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1023.0,
+            "End": 1025.0,
+            "Text": " There is a town metron"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1025.0,
+            "End": 1027.0,
+            "Text": " where the front and rear wheels of vehicles"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1027.0,
+            "End": 1029.0,
+            "Text": " are of different sizes."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1029.0,
+            "End": 1031.0,
+            "Text": " The measurement unit followed"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1031.0,
+            "End": 1033.0,
+            "Text": " by the town is meter."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1033.0,
+            "End": 1035.0,
+            "Text": " The circumference of the front"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1035.0,
+            "End": 1037.0,
+            "Text": " wheel of the car is 133 meter."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1037.0,
+            "End": 1039.0,
+            "Text": " Circumference of the front wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1039.0,
+            "End": 1041.0,
+            "Text": " of the car is 133 meter."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1041.0,
+            "End": 1043.0,
+            "Text": " Circumference of the front wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1043.0,
+            "End": 1045.0,
+            "Text": " of the car is 133 meter."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1045.0,
+            "End": 1047.0,
+            "Text": " And that of rear wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1047.0,
+            "End": 1049.0,
+            "Text": " is 190 meter."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1049.0,
+            "End": 1051.0,
+            "Text": " The circumference of the rear wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1051.0,
+            "End": 1053.0,
+            "Text": " is 190 meter."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1053.0,
+            "End": 1055.0,
+            "Text": " So, what is the distance travelled"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1055.0,
+            "End": 1057.0,
+            "Text": " by the car in meters"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1057.0,
+            "End": 1059.0,
+            "Text": " when front wheel has done"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1059.0,
+            "End": 1061.0,
+            "Text": " 9 more revolutions"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1061.0,
+            "End": 1063.0,
+            "Text": " than the rear wheel?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1063.0,
+            "End": 1065.0,
+            "Text": " Now, what is happening?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1065.0,
+            "End": 1067.0,
+            "Text": " The car is moving."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1067.0,
+            "End": 1069.0,
+            "Text": " The car is moving."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1069.0,
+            "End": 1071.0,
+            "Text": " The front wheel is smaller than the rear wheel."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1071.0,
+            "End": 1073.0,
+            "Text": " So, the front wheel will do more revolutions"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1073.0,
+            "End": 1075.0,
+            "Text": " than the rear wheel."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1075.0,
+            "End": 1077.0,
+            "Text": " But both the wheels"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1077.0,
+            "End": 1079.0,
+            "Text": " will cover equal distance."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1079.0,
+            "End": 1081.0,
+            "Text": " So, the front wheel will do more revolutions"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1081.0,
+            "End": 1083.0,
+            "Text": " to cover the distance"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1083.0,
+            "End": 1085.0,
+            "Text": " and the rear wheel will do less revolutions."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1085.0,
+            "End": 1087.0,
+            "Text": " So, let's assume"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1087.0,
+            "End": 1089.0,
+            "Text": " that the rear wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1089.0,
+            "End": 1091.0,
+            "Text": " has done x revolutions."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1091.0,
+            "End": 1093.0,
+            "Text": " So, the front wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1093.0,
+            "End": 1095.0,
+            "Text": " has done"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1095.0,
+            "End": 1097.0,
+            "Text": " x plus 9."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1097.0,
+            "End": 1099.0,
+            "Text": " But the distance"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1099.0,
+            "End": 1101.0,
+            "Text": " will be equal."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1101.0,
+            "End": 1103.0,
+            "Text": " So, how much distance has the rear wheel covered?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1103.0,
+            "End": 1105.0,
+            "Text": " How much will it cover in one revolution?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1105.0,
+            "End": 1107.0,
+            "Text": " 2 pi r. Circumference is 2 pi r."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1107.0,
+            "End": 1109.0,
+            "Text": " So, how much will it cover in x?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1109.0,
+            "End": 1111.0,
+            "Text": " x into 2 pi"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1111.0,
+            "End": 1113.0,
+            "Text": " R."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1113.0,
+            "End": 1115.0,
+            "Text": " And what will the front wheel do?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1115.0,
+            "End": 1117.0,
+            "Text": " It has done x plus 9 rotations."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1117.0,
+            "End": 1119.0,
+            "Text": " So, x plus 9 into"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1119.0,
+            "End": 1121.0,
+            "Text": " 2 pi r."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1121.0,
+            "End": 1123.0,
+            "Text": " Because we don't know the radius of the front wheel."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1123.0,
+            "End": 1125.0,
+            "Text": " And we don't have to find the radius"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1125.0,
+            "End": 1127.0,
+            "Text": " because they have given the circumference"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1127.0,
+            "End": 1129.0,
+            "Text": " in the question. So, we will put the value of 2 pi r."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1129.0,
+            "End": 1131.0,
+            "Text": " So, this is done."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1131.0,
+            "End": 1133.0,
+            "Text": " x into, what was the circumference of this?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1133.0,
+            "End": 1135.0,
+            "Text": " 190. And x plus 9"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1135.0,
+            "End": 1137.0,
+            "Text": " into, what was the circumference of this?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1137.0,
+            "End": 1139.0,
+            "Text": " 133."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1139.0,
+            "End": 1141.0,
+            "Text": " We will solve this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1141.0,
+            "End": 1143.0,
+            "Text": " So, we will get x. When we get x,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1143.0,
+            "End": 1145.0,
+            "Text": " then x into"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1145.0,
+            "End": 1147.0,
+            "Text": " circumference of the rear wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1147.0,
+            "End": 1149.0,
+            "Text": " is the distance covered by the car."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1149.0,
+            "End": 1151.0,
+            "Text": " Or we can also write x plus 9"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1151.0,
+            "End": 1153.0,
+            "Text": " into circumference of the front wheel."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1153.0,
+            "End": 1155.0,
+            "Text": " So, this is done."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1155.0,
+            "End": 1157.0,
+            "Text": " 190x"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1157.0,
+            "End": 1159.0,
+            "Text": " minus"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1159.0,
+            "End": 1161.0,
+            "Text": " 133x"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1161.0,
+            "End": 1163.0,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1163.0,
+            "End": 1165.0,
+            "Text": " 9 into 133."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1165.0,
+            "End": 1167.0,
+            "Text": " This is done."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1167.0,
+            "End": 1169.0,
+            "Text": " 57x is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1173.0,
+            "End": 1175.0,
+            "Text": " 1197."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1175.0,
+            "End": 1177.0,
+            "Text": " And this x is done."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1177.0,
+            "End": 1179.0,
+            "Text": " 1197"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1179.0,
+            "End": 1181.0,
+            "Text": " by 57."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1181.0,
+            "End": 1183.0,
+            "Text": " Now, we have to find"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1183.0,
+            "End": 1185.0,
+            "Text": " the distance covered by the car."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1185.0,
+            "End": 1187.0,
+            "Text": " So, what will be the distance?"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1187.0,
+            "End": 1189.0,
+            "Text": " Distance is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1189.0,
+            "End": 1191.0,
+            "Text": " x into"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1191.0,
+            "End": 1193.0,
+            "Text": " 2 pi capital R."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1193.0,
+            "End": 1195.0,
+            "Text": " So, x is 1197"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1195.0,
+            "End": 1197.0,
+            "Text": " upon 57"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1197.0,
+            "End": 1199.0,
+            "Text": " into 190."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1199.0,
+            "End": 1201.0,
+            "Text": " We will solve this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1201.0,
+            "End": 1203.0,
+            "Text": " So, this will be"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1203.0,
+            "End": 1205.0,
+            "Text": " 2 pi capital R"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1205.0,
+            "End": 1207.0,
+            "Text": " upon 190."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1207.0,
+            "End": 1209.0,
+            "Text": " So, this will be"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1209.0,
+            "End": 1211.0,
+            "Text": " 2 pi capital R"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1211.0,
+            "End": 1213.0,
+            "Text": " upon 190."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1213.0,
+            "End": 1215.0,
+            "Text": " Now, we will multiply this."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1215.0,
+            "End": 1217.0,
+            "Text": " 191 by 191"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1217.0,
+            "End": 1219.0,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1219.0,
+            "End": 1221.0,
+            "Text": " 3990 meters."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1221.0,
+            "End": 1223.0,
+            "Text": " 3990 meters."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1223.0,
+            "End": 1225.0,
+            "Text": " Because all the units were in meters."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1225.0,
+            "End": 1227.0,
+            "Text": " So, 3990 meters is the distance"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1227.0,
+            "End": 1229.0,
+            "Text": " covered by the car"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1229.0,
+            "End": 1231.0,
+            "Text": " when the front wheel"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1231.0,
+            "End": 1233.0,
+            "Text": " was moving."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1233.0,
+            "End": 1235.0,
+            "Text": " So, this is the answer"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1235.0,
+            "End": 1237.0,
+            "Text": " to the question."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1237.0,
+            "End": 1239.0,
+            "Text": " If you have any doubts,"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1239.0,
+            "End": 1241.0,
+            "Text": " you can contact me"
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1241.0,
+            "End": 1243.0,
+            "Text": " via email or Instagram."
+        },
+        {
+            "Lecture": "5",
+            "Title": "Area  ",
+            "Start": 1243.0,
+            "End": 1245.0,
+            "Text": " See you in the next video."
+        }
+    ],
+    "text": " Hello everyone in this video we would be covering the topic area Now the questions that are made on the area, only two things are used in it. One is the formula used, the other can be a little logic in the question. Okay, so let's start with the formula first. First of all, the simple figure that we know is that it has become a square. So what is the area of this? If the side is A, then the area of this is A square. Okay, and its area is one more half into diagonal square. After this, what is the area of the rectangle? Okay, now let's talk about the triangle. Triangle can be of three types. Equilateral triangle, isosceles triangle or scalene triangle. Okay, one formula that is used in triangle is of area. It is half into base into height. Okay, whatever triangle is equilateral, isosceles or scalene. The formula is of height. Okay, and what will be the base? Okay, after this, one more formula of the triangle is under root of S into S-A, S-B, S-C. When is this used? When we know only three sides. We do not know the height and we do not have any other method to find its height. But we know all three sides of the triangle, so we can find the area of this formula. Now what is S in this? If S is not known, then S is equal to perimeter by 2. Perimeter by 2 means A plus B plus C by 2. Now one more concept that comes in triangle is that the triangle is a circle. If we make a circle that fits inside it, then the circle is touching the sides of the triangle. Means the sides of the triangle are tangent to the circle. So we call it as inscribed. The circle is inscribed in the triangle. And if a circle is like this, just touching the vertices of the triangle, then we call it as circumscribed. Now these two terms can be used in question. So what we need to know here? If this line is from the center, then this line is radius of small circle and this line is radius of big circle. So how can we find the radius of small circle? The radius of the circle which is inscribed is A by 2 root 3. And the radius of circumscribed circle is just double of radius of small circle. Now if we know this, then we can easily find the radius of big circle, circumscribed circle and inscribed circle. But when this triangle is equilateral triangle? In this formula, A is the side of this triangle. Means this is the equilateral triangle. Now in equilateral triangle, there is one more thing. Like this is equilateral triangle. So its formula is half into base into height of area. Its height is root 3 A by 2. Now let's talk about quadrilaterals. Like a parallelogram, it has opposite sides parallel and its two diagonals are of different length. So D1 and D2. So the area of this parallelogram is base into height. In which base is this and height is this. Because we take perpendicular height. This is the height and this is the base. And the other formula of this area is half into D1 into D2. Now what is rhombus? Rhombus is also a parallelogram whose all four sides are equal. So this is rhombus. And what is the difference between rhombus and square? If you make angles of rhombus 90 degree, it will become square. So square is also a kind of rhombus. So if we talk about rhombus, it is a parallelogram. And its all four sides are equal but its diagonals are not equal. Diagonals are not equal, sides are equal. If diagonals are equal, it means angles are 90 degree and it becomes square. Square is also a kind of rhombus whose angles are 90 degree. So the area of this will be the same formula of parallelogram. Because this is also a parallelogram. Now let's talk about trapezium. What is trapezium? Trapezium is a figure like this. Its only condition is that both sides are parallel. Other than this, anything can happen. Like these two sides are parallel or not, we can't say anything. These two sides are equal or not, we can't say anything. There is no condition on other two sides. This is also a trapezium. This is also a trapezium. This is also a trapezium. What is the formula of area of trapezium? Half into sum of parallel sides. Sum of parallel sides into height. If its parallel sides are A and B, then the formula will be Half into A plus B into H. Let's talk about circle. What is circle? This is a circle. What is the area of this circle? We know that the area of circle is Pi R square. We are considering the area from here to here. If I tell you the area of semicircle, then we have covered half of it. Earlier we were looking at 360 degree, now we are looking at 180 degree. So we know that if half of the circle is there, then Pi R square by 2 will be the area. We can give any other angle. We have given 180 degree. Suppose we say that the angle is theta. And tell me the area of this circle. So how will this be? Using simple unitary method. The area of 360 degree is Pi R square. What is the area of 1 degree? Pi R square by 360. We have taken it from here. If you see 180 degree, then it will be 180 by 360 into Pi R square. And this will be 1 by 2. So it will be Pi R square by 2. If the angle is theta, then the area of that sector will be? We call this thing sector. This thing is called sector. Sector of the circle. So what will be the area of sector? If the angle is theta, then it will be theta upon 360 into Pi R square. Okay? This is the area. If you want to talk about arc in circle, then it is also simple. If it is circle, then what will be the circumference? 2 Pi R. If you want to give theta angle, then it is theta degree. Okay? So what will be the length of this arc? We call it length of arc. So it will be theta upon 360 into 2 Pi R. Okay? This is the first question. If each side of a square is increased by 150%, find the increased percent in its area. Okay? Earlier if the side of square was A, then now 150% has increased. So A plus 150% of A. Now how much is the side? Let's find out. A plus 150 by 100 A. So it is A plus 3 by 2 A is equal to 5 A by 2. So this is our new side. Earlier it was A, now it is 150%. So it is 5 A by 2. Now it asks, find the increased percent in its area. Now how much will be increased in its area? Earlier it was A square. Okay? Now how much is it? It is 5 A by 2, so it will be 25 A square by 4. Okay? Now we have to find the percentage of increase. So how much is the increase? Increase upon actual into 100. So let's find the increase. How much is the increase? 25 A square by 4 minus A square. It will be 4 L. So it is 21 A square by 4. Okay? So much increase in the area. So how much will be the percentage increase? Percentage increase. It will be like this. Increase upon actual into 100. Okay? How much is the increase? 21 by 4 A square. How much is the actual? A square into 100. A square by A square. This is equal to 21 by 4 into 100. Okay? 25 by 4. It will be 25 by 25. 2 carry 52. 525 percent increase in the area. Okay? This is one zone. Okay. Next question. The arc of length 22 cm of a circle substains an angle of 72 degree at the center. What is the radius of the circle? Okay? Now I will tell you the length of the arc. This is the radius of the circle. Okay? Now we have given the length of the arc and theta. And we have to find the radius. Okay? We will draw first. This is our circle. This is an angle of 72 degree. Okay? And what is the length of this? 22 cm. Okay? Now we know how to find the length of the arc. Theta upon 360. Into circumference. 2 by r. This is given as 22. And theta is given as 72. Okay? Now we will calculate this. 6 times 6 is equal to 0. 6 times 6 is equal to 12. 6 times 6 is equal to 10. 6 times 6 is equal to 2. 1 times 6 is equal to 5. 2 by r by 5 is equal to 22. And this is r is equal to 22 into 5 upon 2 into pi. We will write this as 22 into 5 upon 2 into 22 by 7. This is cut. This is r. 35 by 2 is equal to 17.5 cm. This is the radius. Okay? Okay. Now a question. Now they have not given any details about the dimension of the square, the radius of the circle, anything. We can consider anything. It will be cancelled later. So, there is a square. One circle is inscribed and the other is circumscribed. Like we have studied triangle inscribed and circumscribed. Now we have to find the ratio of the area of both the circles. Okay? This is our square. Okay? Now how will the inscribed circle be formed? Something like this. It is touching the lines. And how will the circumscribed circle be formed? Now we have to find the ratio of the area of both the circles. Okay? So, we need radius for the area of the circle. Pi r square formula. We just have to find the radius. If we find the radius, we will get the answer. We will find the ratio of the area. Now what can we see in this? We can see that the radius of this circle will be this. And the radius of the bigger circle will be this. Okay? Let's talk about the smaller circle first. If we draw the whole circle, then the diameter of the smaller circle will be this. But is this and this not equal? Because this red circle is touching the lines from all sides. Okay? So, the diameter of this circle will be equal to the diameter of the square. So, I am assuming that the radius of the smaller circle is equal to the radius of the bigger circle. The diameter of the bigger circle is equal to the radius of the square. Okay? Now let's talk about the bigger circle. If you see the diagonal of the bigger circle, the square's diagonal, then this is the diameter of the bigger circle. Okay? So, 2 times capital R is equal to the diagonal of the square. Now, what is the diagonal? It is the diagonal of the square. Okay? Now, we have to find the diagonal of the square. So, if we know that the one side of the square is A and the other side is also A, all sides of the square are A, then this is A, this is A, and this is 90 degrees. So, we can find the length of the hypotenuse from Pythagoras theorem. How much will be the length of the hypotenuse? Okay? How much will be the length of the hypotenuse? It will be A and A. So, how much will be the hypotenuse? It will be A square plus A square whole under root 2 A square whole under root. So, it will be A root 2. Okay? What will be the diagonal? It is the diagonal. So, 2R is equal to the diagonal of the square which is A root 2. Okay? What will be the radius of the circumscribed circle? It will be A root 2 by 2. Okay? Now, we have to find the ratio of the area. Okay? To find the ratio of the area, we have to find the ratio of Pi R square of the inscribed circle and Pi R capital R square of the circumscribed circle. It will be Pi. What will be the radius of the small? It will be A by 2. Square of A by 2 upon Pi A square root 2 by 2. Okay? Pi will be cut. Let it be. Square of A by 2 upon If you take A by 2 out of this, then square of A by 2 and square of root 2. This will also be cut. So, it will be 1 by 2. What will be the answer? Answer is 1 is to 2. This is the ratio. Ratio of the If there is any square, then the ratio of the inscribed circle and circumscribed circle will be 1 is to 2. Next question. There is a town metron where the front and rear wheels of vehicles are of different sizes. The measurement unit followed by the town is meter. The circumference of the front wheel of the car is 133 meter. Circumference of the front wheel of the car is 133 meter. Circumference of the front wheel of the car is 133 meter. And that of rear wheel is 190 meter. The circumference of the rear wheel is 190 meter. So, what is the distance travelled by the car in meters when front wheel has done 9 more revolutions than the rear wheel? Now, what is happening? The car is moving. The car is moving. The front wheel is smaller than the rear wheel. So, the front wheel will do more revolutions than the rear wheel. But both the wheels will cover equal distance. So, the front wheel will do more revolutions to cover the distance and the rear wheel will do less revolutions. So, let's assume that the rear wheel has done x revolutions. So, the front wheel has done x plus 9. But the distance will be equal. So, how much distance has the rear wheel covered? How much will it cover in one revolution? 2 pi r. Circumference is 2 pi r. So, how much will it cover in x? x into 2 pi R. And what will the front wheel do? It has done x plus 9 rotations. So, x plus 9 into 2 pi r. Because we don't know the radius of the front wheel. And we don't have to find the radius because they have given the circumference in the question. So, we will put the value of 2 pi r. So, this is done. x into, what was the circumference of this? 190. And x plus 9 into, what was the circumference of this? 133. We will solve this. So, we will get x. When we get x, then x into circumference of the rear wheel is the distance covered by the car. Or we can also write x plus 9 into circumference of the front wheel. So, this is done. 190x minus 133x is equal to 9 into 133. This is done. 57x is equal to 1197. And this x is done. 1197 by 57. Now, we have to find the distance covered by the car. So, what will be the distance? Distance is equal to x into 2 pi capital R. So, x is 1197 upon 57 into 190. We will solve this. So, this will be 2 pi capital R upon 190. So, this will be 2 pi capital R upon 190. Now, we will multiply this. 191 by 191 is equal to 3990 meters. 3990 meters. Because all the units were in meters. So, 3990 meters is the distance covered by the car when the front wheel was moving. So, this is the answer to the question. If you have any doubts, you can contact me via email or Instagram. See you in the next video."
+}
