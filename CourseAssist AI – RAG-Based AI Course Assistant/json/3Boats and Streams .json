@@ -1,0 +1,2945 @@
+{
+    "chunks": [
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 0.0,
+            "End": 4.8,
+            "Text": " Hello everyone in this video we would be covering the topic boats and streams."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 4.8,
+            "End": 7.6000000000000005,
+            "Text": " Now what questions are there on boats and streams?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 7.6000000000000005,
+            "End": 13.200000000000001,
+            "Text": " There are such questions in this that suppose this is water and this is a boat on it."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 13.200000000000001,
+            "End": 21.6,
+            "Text": " Now if we are driving the boat, suppose we are driving the boat at a speed of 5 km per hour,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 21.6,
+            "End": 25.6,
+            "Text": " if the water is still, that means the water is not flowing in any direction."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 26.0,
+            "End": 32.0,
+            "Text": " But if the water is also flowing in the same direction at a speed of 2 km per hour,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 32.0,
+            "End": 34.0,
+            "Text": " then what will happen in that case?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 34.0,
+            "End": 39.0,
+            "Text": " In this case, what will happen is that the speed of the boat is 5 km per hour in this direction,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 39.0,
+            "End": 43.0,
+            "Text": " but the water is also taking it in the same direction at a speed of 2 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 43.0,
+            "End": 48.0,
+            "Text": " So its resultant speed will be 7 km per hour in this direction."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 48.0,
+            "End": 51.0,
+            "Text": " Both speeds will be added."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 51.4,
+            "End": 53.4,
+            "Text": " And what can be the second case?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 53.4,
+            "End": 59.4,
+            "Text": " That here the flow of water is in the other direction."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 59.4,
+            "End": 64.4,
+            "Text": " Means the direction in which the boat is going, the water is flowing in the opposite direction."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 64.4,
+            "End": 66.4,
+            "Text": " Say 2 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 66.4,
+            "End": 68.4,
+            "Text": " So what will happen in this case?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 68.4,
+            "End": 70.4,
+            "Text": " The resultant speed will be how much?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 70.4,
+            "End": 75.4,
+            "Text": " The speed of the boat is in this direction, it is flowing at a speed of 5 km per hour,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 75.4,
+            "End": 79.4,
+            "Text": " but the water is taking it in the other direction at a speed of 2 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 79.80000000000001,
+            "End": 83.80000000000001,
+            "Text": " So the resultant speed will be 3 km per hour in this direction."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 83.80000000000001,
+            "End": 87.80000000000001,
+            "Text": " So our questions will be based on this concept."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 87.80000000000001,
+            "End": 89.80000000000001,
+            "Text": " Now what do we do?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 89.80000000000001,
+            "End": 91.80000000000001,
+            "Text": " Let's write this thing here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 91.80000000000001,
+            "End": 96.80000000000001,
+            "Text": " The first case we saw in which the direction of the boat and the direction of the water are the same."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 96.80000000000001,
+            "End": 99.80000000000001,
+            "Text": " This case is called downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 103.80000000000001,
+            "End": 107.80000000000001,
+            "Text": " When the direction of the boat and the direction of the water will be the same,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 108.2,
+            "End": 110.2,
+            "Text": " then it will be called downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 110.2,
+            "End": 112.2,
+            "Text": " And what will happen in this case?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 112.2,
+            "End": 114.2,
+            "Text": " Velocities will be added."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 114.2,
+            "End": 124.19999999999999,
+            "Text": " So let's assume that the speed of the boat was U and the speed of the water was V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 124.19999999999999,
+            "End": 126.2,
+            "Text": " So what will be the speeds in downstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 128.2,
+            "End": 133.2,
+            "Text": " The resultant speed will be U plus V because velocities are added."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 133.2,
+            "End": 135.2,
+            "Text": " Now let's take the second case."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 135.2,
+            "End": 137.2,
+            "Text": " If our boat is going in this direction,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 137.6,
+            "End": 139.6,
+            "Text": " then our water is flowing in the other direction."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 139.6,
+            "End": 143.6,
+            "Text": " So in this case, we call it upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 146.6,
+            "End": 149.6,
+            "Text": " In this case, the velocity is subtracted."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 149.6,
+            "End": 150.6,
+            "Text": " So what will happen in this case?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 150.6,
+            "End": 151.6,
+            "Text": " U minus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 153.6,
+            "End": 160.6,
+            "Text": " The speed at which the water is going in the opposite direction from the speed of the boat will be minused."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 160.6,
+            "End": 164.6,
+            "Text": " So the resultant speed will be the speed at which the boat is moving forward."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 165.0,
+            "End": 168.0,
+            "Text": " Now let's do the questions."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 168.0,
+            "End": 170.0,
+            "Text": " What does it say here?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 170.0,
+            "End": 177.0,
+            "Text": " A man can row upstream at 4 km per hour and downstream at 8 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 177.0,
+            "End": 181.0,
+            "Text": " Find man's rate in still water and the rate of current."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 181.0,
+            "End": 186.0,
+            "Text": " Man's rate in still water means what will be the speed of the man if the water is not moving?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 186.0,
+            "End": 190.0,
+            "Text": " We have to subtract U and the rate of current."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 190.0,
+            "End": 192.0,
+            "Text": " Now what is given?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 192.4,
+            "End": 196.4,
+            "Text": " We have been given the speed of upstream and downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 196.4,
+            "End": 203.4,
+            "Text": " So we just did that the speed of upstream is U minus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 203.4,
+            "End": 205.4,
+            "Text": " And that is given as 4."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 205.4,
+            "End": 211.4,
+            "Text": " And the speed of downstream is U plus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 211.4,
+            "End": 213.4,
+            "Text": " And that is given as 8."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 213.4,
+            "End": 217.4,
+            "Text": " Now we can easily solve these two equations and get U and V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 217.8,
+            "End": 227.8,
+            "Text": " U will be the rate of current of man in still water and V will be the rate of current of boat."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 227.8,
+            "End": 233.8,
+            "Text": " If we add both the equations, then 2U is equal to 12."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 233.8,
+            "End": 235.8,
+            "Text": " Adding both the equations."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 235.8,
+            "End": 239.8,
+            "Text": " And U is 6 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 239.8,
+            "End": 243.8,
+            "Text": " Which means the speed of man in still water is 6 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 243.8,
+            "End": 245.8,
+            "Text": " And what will be V?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 246.20000000000002,
+            "End": 248.20000000000002,
+            "Text": " Substitute it here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 248.20000000000002,
+            "End": 251.20000000000002,
+            "Text": " So this is 6 minus V is equal to 4."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 251.20000000000002,
+            "End": 256.2,
+            "Text": " So V is 2 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 256.2,
+            "End": 259.2,
+            "Text": " This is the answer."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 259.2,
+            "End": 261.2,
+            "Text": " This is the speed of man."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 261.2,
+            "End": 264.2,
+            "Text": " And this is the speed of current."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 268.2,
+            "End": 273.2,
+            "Text": " A man rows 24 km downstream and 16 km upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 273.59999999999997,
+            "End": 275.59999999999997,
+            "Text": " Taking 4 hours each time."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 275.59999999999997,
+            "End": 277.59999999999997,
+            "Text": " It takes 4 hours for both the times."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 277.59999999999997,
+            "End": 283.59999999999997,
+            "Text": " Now this is not the speed but the distance."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 283.59999999999997,
+            "End": 285.59999999999997,
+            "Text": " How much distance he went downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 285.59999999999997,
+            "End": 289.59999999999997,
+            "Text": " He went 24 km and 16 km upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 289.59999999999997,
+            "End": 291.59999999999997,
+            "Text": " And he took 4 hours in both the journeys."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 291.59999999999997,
+            "End": 294.59999999999997,
+            "Text": " 4 hours in first journey and 4 hours in second journey."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 294.59999999999997,
+            "End": 296.59999999999997,
+            "Text": " Find the velocity of the current."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 296.59999999999997,
+            "End": 298.59999999999997,
+            "Text": " So what do we have to find?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 298.59999999999997,
+            "End": 300.59999999999997,
+            "Text": " We have to find V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 301.0,
+            "End": 304.0,
+            "Text": " Now let's see what all things are given for downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 304.0,
+            "End": 308.0,
+            "Text": " Now what is happening downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 311.0,
+            "End": 314.0,
+            "Text": " How much distance he covered while going downstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 314.0,
+            "End": 316.0,
+            "Text": " 24 km."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 316.0,
+            "End": 318.0,
+            "Text": " And how much time did he take?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 318.0,
+            "End": 320.0,
+            "Text": " 4 hours."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 322.0,
+            "End": 324.0,
+            "Text": " Now let's talk about upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 327.0,
+            "End": 329.0,
+            "Text": " How much distance did he cover?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 329.4,
+            "End": 331.4,
+            "Text": " 3 km."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 331.4,
+            "End": 333.4,
+            "Text": " And how much time did he take?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 333.4,
+            "End": 335.4,
+            "Text": " 4 hours."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 335.4,
+            "End": 339.4,
+            "Text": " So here we can find the speed of both the times."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 339.4,
+            "End": 341.4,
+            "Text": " And as soon as we get both the speeds."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 341.4,
+            "End": 344.4,
+            "Text": " Speed of upstream and speed of downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 346.4,
+            "End": 350.4,
+            "Text": " When we get speed of upstream and speed of downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 350.4,
+            "End": 352.4,
+            "Text": " So what will be the value of this thing?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 352.4,
+            "End": 354.4,
+            "Text": " What will be the value of speed of downstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 354.4,
+            "End": 356.4,
+            "Text": " It will be equal to U plus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 356.4,
+            "End": 358.4,
+            "Text": " And what will be the value of speed of upstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 358.79999999999995,
+            "End": 360.79999999999995,
+            "Text": " And what was given in the question?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 360.79999999999995,
+            "End": 362.79999999999995,
+            "Text": " Find the velocity of current."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 364.79999999999995,
+            "End": 366.79999999999995,
+            "Text": " Now let's take this out."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 366.79999999999995,
+            "End": 368.79999999999995,
+            "Text": " What will be the speed of this?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 368.79999999999995,
+            "End": 370.79999999999995,
+            "Text": " Distance upon time."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 370.79999999999995,
+            "End": 372.79999999999995,
+            "Text": " So we will divide both of them."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 372.79999999999995,
+            "End": 374.79999999999995,
+            "Text": " So it will be 24 divided by 4 is equal to 6 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 376.79999999999995,
+            "End": 378.79999999999995,
+            "Text": " This is the speed of downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 378.79999999999995,
+            "End": 380.79999999999995,
+            "Text": " Now what will be the speed of upstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 380.79999999999995,
+            "End": 382.79999999999995,
+            "Text": " Distance divided by time."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 382.79999999999995,
+            "End": 384.79999999999995,
+            "Text": " 16 divided by 4 is equal to 4 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 385.2,
+            "End": 387.2,
+            "Text": " Now we have the value of U plus V is 6."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 387.2,
+            "End": 389.2,
+            "Text": " And the value of U minus V is 4."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 389.2,
+            "End": 391.2,
+            "Text": " Now we have two equations."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 391.2,
+            "End": 393.2,
+            "Text": " Two equations of two variables."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 393.2,
+            "End": 395.2,
+            "Text": " We can solve them easily."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 395.2,
+            "End": 397.2,
+            "Text": " Let's do it."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 397.2,
+            "End": 399.2,
+            "Text": " Let's write it here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 399.2,
+            "End": 401.2,
+            "Text": " I am writing in this equation."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 401.2,
+            "End": 403.2,
+            "Text": " U minus V is equal to 4."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 403.2,
+            "End": 405.2,
+            "Text": " If you add both of them."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 405.2,
+            "End": 407.2,
+            "Text": " It will be 2U is equal to 10."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 407.2,
+            "End": 409.2,
+            "Text": " U is equal to 5."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 409.2,
+            "End": 411.2,
+            "Text": " And if we subtract it here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 411.2,
+            "End": 413.2,
+            "Text": " It will be 6."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 413.59999999999997,
+            "End": 415.59999999999997,
+            "Text": " And if we substitute it here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 415.59999999999997,
+            "End": 417.59999999999997,
+            "Text": " It will be 5 minus V is equal to 4."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 417.59999999999997,
+            "End": 419.59999999999997,
+            "Text": " So V is equal to 1."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 423.59999999999997,
+            "End": 425.59999999999997,
+            "Text": " And what did they ask?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 425.59999999999997,
+            "End": 427.59999999999997,
+            "Text": " What is the speed of the current?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 429.59999999999997,
+            "End": 431.59999999999997,
+            "Text": " Velocity of the current."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 431.59999999999997,
+            "End": 433.59999999999997,
+            "Text": " So velocity of current is V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 433.59999999999997,
+            "End": 435.59999999999997,
+            "Text": " This is the answer."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 439.59999999999997,
+            "End": 441.59999999999997,
+            "Text": " Next question."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 443.59999999999997,
+            "End": 445.59999999999997,
+            "Text": " A man can row 4.5 km in still water."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 445.59999999999997,
+            "End": 447.59999999999997,
+            "Text": " A man can row 4.5 km in still water."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 447.59999999999997,
+            "End": 449.59999999999997,
+            "Text": " U is given here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 449.59999999999997,
+            "End": 451.59999999999997,
+            "Text": " And he finds that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 451.59999999999997,
+            "End": 453.59999999999997,
+            "Text": " it takes him"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 453.59999999999997,
+            "End": 455.59999999999997,
+            "Text": " twice as long"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 455.59999999999997,
+            "End": 457.59999999999997,
+            "Text": " as to row up"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 457.59999999999997,
+            "End": 459.59999999999997,
+            "Text": " as to row down the river."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 459.59999999999997,
+            "End": 461.59999999999997,
+            "Text": " It means that he takes double time"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 461.59999999999997,
+            "End": 463.59999999999997,
+            "Text": " to go upstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 463.59999999999997,
+            "End": 465.59999999999997,
+            "Text": " than to go downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 465.59999999999997,
+            "End": 467.59999999999997,
+            "Text": " If we are talking about the same distance."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 467.59999999999997,
+            "End": 469.59999999999997,
+            "Text": " So it means that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 469.59999999999997,
+            "End": 471.59999999999997,
+            "Text": " the speed of his upstream journey"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 472.0,
+            "End": 474.0,
+            "Text": " is just half of the speed of his downstream journey."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 474.0,
+            "End": 476.0,
+            "Text": " It takes double time."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 476.0,
+            "End": 478.0,
+            "Text": " It means that the speed is just half."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 478.0,
+            "End": 480.0,
+            "Text": " They are inversely proportional."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 480.0,
+            "End": 482.0,
+            "Text": " The formula is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 482.0,
+            "End": 484.0,
+            "Text": " speed is equal to distance upon time."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 484.0,
+            "End": 486.0,
+            "Text": " It is inversely proportional."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 486.0,
+            "End": 488.0,
+            "Text": " And as we know"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 488.0,
+            "End": 490.0,
+            "Text": " that if someone's speed is more,"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 490.0,
+            "End": 492.0,
+            "Text": " it will take less time."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 492.0,
+            "End": 494.0,
+            "Text": " So it takes double time"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 494.0,
+            "End": 496.0,
+            "Text": " to go upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 496.0,
+            "End": 498.0,
+            "Text": " It means that the speed is half."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 498.0,
+            "End": 500.0,
+            "Text": " So what do we know from this?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 502.0,
+            "End": 504.0,
+            "Text": " The speed of upstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 504.0,
+            "End": 506.0,
+            "Text": " is equal to half of"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 506.0,
+            "End": 508.0,
+            "Text": " the speed of downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 508.0,
+            "End": 510.0,
+            "Text": " Ok."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 510.0,
+            "End": 512.0,
+            "Text": " Now"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 512.0,
+            "End": 514.0,
+            "Text": " what is given in the question?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 514.0,
+            "End": 516.0,
+            "Text": " A man can row 4.5 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 516.0,
+            "End": 518.0,
+            "Text": " in still water."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 518.0,
+            "End": 520.0,
+            "Text": " U is given here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 520.0,
+            "End": 522.0,
+            "Text": " U is equal to 4.5 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 522.0,
+            "End": 524.0,
+            "Text": " U is equal to 4.5 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 524.0,
+            "End": 526.0,
+            "Text": " Now what is asked?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 526.0,
+            "End": 528.0,
+            "Text": " Find the rate of the stream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 528.0,
+            "End": 530.0,
+            "Text": " It means that we have to find the speed of the stream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 530.4,
+            "End": 532.4,
+            "Text": " What is the meaning of"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 532.4,
+            "End": 534.4,
+            "Text": " speed of upstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 534.4,
+            "End": 536.4,
+            "Text": " It means that U minus V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 536.4,
+            "End": 538.4,
+            "Text": " and U plus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 538.4,
+            "End": 540.4,
+            "Text": " I will write this equation here."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 540.4,
+            "End": 542.4,
+            "Text": " It was given in the question."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 542.4,
+            "End": 544.4,
+            "Text": " We will write the speed of upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 544.4,
+            "End": 546.4,
+            "Text": " U minus V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 546.4,
+            "End": 548.4,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 548.4,
+            "End": 550.4,
+            "Text": " half of U plus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 550.4,
+            "End": 552.4,
+            "Text": " U plus V is equal to half of U plus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 552.4,
+            "End": 554.4,
+            "Text": " U plus V is equal to half of U plus V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 554.4,
+            "End": 556.4,
+            "Text": " 2U minus 2V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 556.4,
+            "End": 558.4,
+            "Text": " is equal to U plus V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 558.8,
+            "End": 560.8,
+            "Text": " and"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 560.8,
+            "End": 562.8,
+            "Text": " this is V."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 562.8,
+            "End": 564.8,
+            "Text": " If this comes here"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 564.8,
+            "End": 566.8,
+            "Text": " then U is equal to 3V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 568.8,
+            "End": 570.8,
+            "Text": " and V is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 570.8,
+            "End": 572.8,
+            "Text": " U by 3"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 574.8,
+            "End": 576.8,
+            "Text": " and V is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 576.8,
+            "End": 578.8,
+            "Text": " 4.5 by 3"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 578.8,
+            "End": 580.8,
+            "Text": " is equal to 1.5 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 582.8,
+            "End": 584.8,
+            "Text": " This is the answer."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 585.1999999999999,
+            "End": 587.1999999999999,
+            "Text": " Next question"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 587.1999999999999,
+            "End": 589.1999999999999,
+            "Text": " A man can row"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 589.1999999999999,
+            "End": 591.1999999999999,
+            "Text": " 8 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 591.1999999999999,
+            "End": 593.1999999999999,
+            "Text": " in still water."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 593.1999999999999,
+            "End": 595.1999999999999,
+            "Text": " It means that U is given"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 595.1999999999999,
+            "End": 597.1999999999999,
+            "Text": " and the speed of the man is given."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 597.1999999999999,
+            "End": 599.1999999999999,
+            "Text": " When the river is running"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 599.1999999999999,
+            "End": 601.1999999999999,
+            "Text": " at 2 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 601.1999999999999,
+            "End": 603.1999999999999,
+            "Text": " it takes him 3 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 603.1999999999999,
+            "End": 605.1999999999999,
+            "Text": " 12 minutes to row"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 605.1999999999999,
+            "End": 607.1999999999999,
+            "Text": " to a place and back."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 607.1999999999999,
+            "End": 609.1999999999999,
+            "Text": " It is said that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 609.1999999999999,
+            "End": 611.1999999999999,
+            "Text": " if the speed of the river"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 611.1999999999999,
+            "End": 613.1999999999999,
+            "Text": " is 2 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 613.6,
+            "End": 615.6,
+            "Text": " then"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 615.6,
+            "End": 617.6,
+            "Text": " the man can row"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 617.6,
+            "End": 619.6,
+            "Text": " to a place"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 619.6,
+            "End": 621.6,
+            "Text": " and back"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 621.6,
+            "End": 623.6,
+            "Text": " and the man has to go back"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 623.6,
+            "End": 625.6,
+            "Text": " to the place."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 625.6,
+            "End": 627.6,
+            "Text": " It is said that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 627.6,
+            "End": 629.6,
+            "Text": " the man has to go back"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 629.6,
+            "End": 631.6,
+            "Text": " to the place"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 631.6,
+            "End": 633.6,
+            "Text": " and back in 3 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 633.6,
+            "End": 635.6,
+            "Text": " and 12 minutes."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 635.6,
+            "End": 637.6,
+            "Text": " When the man is going"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 637.6,
+            "End": 639.6,
+            "Text": " to the place"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 639.6,
+            "End": 641.6,
+            "Text": " he is going downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 642.0,
+            "End": 644.0,
+            "Text": " and when he is coming back"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 644.0,
+            "End": 646.0,
+            "Text": " he is going upstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 646.0,
+            "End": 648.0,
+            "Text": " So the man has to go upstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 648.0,
+            "End": 650.0,
+            "Text": " and then downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 650.0,
+            "End": 652.0,
+            "Text": " and then upstream and downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 652.0,
+            "End": 654.0,
+            "Text": " and then 3 hours 12 minutes."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 654.0,
+            "End": 656.0,
+            "Text": " Next question"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 656.0,
+            "End": 658.0,
+            "Text": " How far is the place?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 658.0,
+            "End": 660.0,
+            "Text": " We have to find the distance."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 660.0,
+            "End": 662.0,
+            "Text": " So what is given here?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 664.0,
+            "End": 666.0,
+            "Text": " Let us write the answer"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 666.0,
+            "End": 668.0,
+            "Text": " for both the answers."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 672.0,
+            "End": 674.0,
+            "Text": " The answer is D distance"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 674.0,
+            "End": 676.0,
+            "Text": " which we have to find."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 676.0,
+            "End": 678.0,
+            "Text": " Let us assume that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 678.0,
+            "End": 680.0,
+            "Text": " T1 is the time"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 680.0,
+            "End": 682.0,
+            "Text": " and the speed is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 682.0,
+            "End": 684.0,
+            "Text": " u plus b"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 684.0,
+            "End": 686.0,
+            "Text": " What is the scenario in upstream?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 688.0,
+            "End": 690.0,
+            "Text": " The answer is D distance"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 690.0,
+            "End": 692.0,
+            "Text": " and the time is T2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 692.0,
+            "End": 694.0,
+            "Text": " and the speed is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 694.0,
+            "End": 696.0,
+            "Text": " u minus b"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 696.0,
+            "End": 698.0,
+            "Text": " Now let us see"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 698.0,
+            "End": 700.0,
+            "Text": " the speed of the man"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 700.4,
+            "End": 702.4,
+            "Text": " and the answer is u and b"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 702.4,
+            "End": 704.4,
+            "Text": " which is given in the question."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 704.4,
+            "End": 706.4,
+            "Text": " So the answer is 8 plus 2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 706.4,
+            "End": 708.4,
+            "Text": " which is 10"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 708.4,
+            "End": 710.4,
+            "Text": " and the answer is 8 minus 2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 710.4,
+            "End": 712.4,
+            "Text": " which is 6 km per hour."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 718.4,
+            "End": 720.4,
+            "Text": " Now let us talk about downstream."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 720.4,
+            "End": 722.4,
+            "Text": " We can write a formula here"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 722.4,
+            "End": 724.4,
+            "Text": " Distance is equal to speed into time"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 724.4,
+            "End": 726.4,
+            "Text": " So distance D is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 726.8,
+            "End": 728.8,
+            "Text": " 10 T1"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 728.8,
+            "End": 730.8,
+            "Text": " and D is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 730.8,
+            "End": 732.8,
+            "Text": " 6 T2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 732.8,
+            "End": 734.8,
+            "Text": " and both the distances are equal."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 736.8,
+            "End": 738.8,
+            "Text": " So 10 T1"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 738.8,
+            "End": 740.8,
+            "Text": " is equal to 6 T2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 740.8,
+            "End": 742.8,
+            "Text": " which is 5 T1"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 742.8,
+            "End": 744.8,
+            "Text": " is equal to 3 T2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 744.8,
+            "End": 746.8,
+            "Text": " This is one equation."
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 746.8,
+            "End": 748.8,
+            "Text": " What was given in the question?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 748.8,
+            "End": 750.8,
+            "Text": " It was given that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 750.8,
+            "End": 752.8,
+            "Text": " it takes 3 hours 12 minutes"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 752.8,
+            "End": 754.8,
+            "Text": " to complete the task"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 755.1999999999999,
+            "End": 757.1999999999999,
+            "Text": " So it was given T1 plus T2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 757.1999999999999,
+            "End": 759.1999999999999,
+            "Text": " So how will we write 3 hours 12 minutes?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 761.1999999999999,
+            "End": 763.1999999999999,
+            "Text": " We will write 3 hours plus"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 763.1999999999999,
+            "End": 765.1999999999999,
+            "Text": " 12 minutes"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 765.1999999999999,
+            "End": 767.1999999999999,
+            "Text": " which is 12 by 60 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 769.1999999999999,
+            "End": 771.1999999999999,
+            "Text": " which is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 771.1999999999999,
+            "End": 773.1999999999999,
+            "Text": " 1 by 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 773.1999999999999,
+            "End": 775.1999999999999,
+            "Text": " 3 plus 1 by 5 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 779.1999999999999,
+            "End": 781.1999999999999,
+            "Text": " So this is one equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 781.1999999999999,
+            "End": 783.1999999999999,
+            "Text": " and the other is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 783.6,
+            "End": 785.6,
+            "Text": " 3 plus 1 by 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 787.6,
+            "End": 789.6,
+            "Text": " So from here"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 789.6,
+            "End": 791.6,
+            "Text": " we will take T1"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 791.6,
+            "End": 793.6,
+            "Text": " from the above equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 793.6,
+            "End": 795.6,
+            "Text": " and from this equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 797.6,
+            "End": 799.6,
+            "Text": " So T1 will be"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 799.6,
+            "End": 801.6,
+            "Text": " 3 T2 upon 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 805.6,
+            "End": 807.6,
+            "Text": " We will keep this in this equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 807.6,
+            "End": 809.6,
+            "Text": " 3 T2 upon 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 809.6,
+            "End": 811.6,
+            "Text": " plus T2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 812.0,
+            "End": 814.0,
+            "Text": " is equal to 3 plus 1 upon 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 814.0,
+            "End": 816.0,
+            "Text": " We will take T2 from this equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 818.0,
+            "End": 820.0,
+            "Text": " This is 8 T2 upon 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 822.0,
+            "End": 824.0,
+            "Text": " and this is 16 by 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 826.0,
+            "End": 828.0,
+            "Text": " This is subtracted from this equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 828.0,
+            "End": 830.0,
+            "Text": " So T2 is 16 upon 8"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 830.0,
+            "End": 832.0,
+            "Text": " is equal to 2 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 834.0,
+            "End": 836.0,
+            "Text": " T2 is 2 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 836.0,
+            "End": 838.0,
+            "Text": " and we had to take the distance"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 838.0,
+            "End": 840.0,
+            "Text": " We will use this to take the distance"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 840.4,
+            "End": 842.4,
+            "Text": " 6 into 2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 842.4,
+            "End": 844.4,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 844.4,
+            "End": 846.4,
+            "Text": " 12 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 850.4,
+            "End": 852.4,
+            "Text": " This is the answer"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 852.4,
+            "End": 854.4,
+            "Text": " Next question"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 854.4,
+            "End": 856.4,
+            "Text": " A man can row"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 856.4,
+            "End": 858.4,
+            "Text": " 30 km upstream and"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 858.4,
+            "End": 860.4,
+            "Text": " 44 km downstream in 10 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 862.4,
+            "End": 864.4,
+            "Text": " Wahil"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 864.4,
+            "End": 866.4,
+            "Text": " He can row"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 866.4,
+            "End": 868.4,
+            "Text": " 40 km upstream and"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 868.8,
+            "End": 870.8,
+            "Text": " 40 km downstream in 13 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 870.8,
+            "End": 872.8,
+            "Text": " Find the rate of current"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 872.8,
+            "End": 874.8,
+            "Text": " and the speed of man"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 874.8,
+            "End": 876.8,
+            "Text": " in still water"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 876.8,
+            "End": 878.8,
+            "Text": " Find the rate of current"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 878.8,
+            "End": 880.8,
+            "Text": " is equal to V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 880.8,
+            "End": 882.8,
+            "Text": " and still water is equal to U"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 882.8,
+            "End": 884.8,
+            "Text": " Now we have to solve"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 884.8,
+            "End": 886.8,
+            "Text": " the equations based on the answers"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 888.8,
+            "End": 890.8,
+            "Text": " First we have to solve"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 890.8,
+            "End": 892.8,
+            "Text": " 30 km upstream and 44 km downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 892.8,
+            "End": 894.8,
+            "Text": " in 10 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 894.8,
+            "End": 896.8,
+            "Text": " First we will write case 1"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 898.8,
+            "End": 900.8,
+            "Text": " and we are taking case 2"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 900.8,
+            "End": 902.8,
+            "Text": " In case 1"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 902.8,
+            "End": 904.8,
+            "Text": " it is written that"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 904.8,
+            "End": 906.8,
+            "Text": " upstream is 30 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 908.8,
+            "End": 910.8,
+            "Text": " and downstream is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 910.8,
+            "End": 912.8,
+            "Text": " 44 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 912.8,
+            "End": 914.8,
+            "Text": " and this is going in 10 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 916.8,
+            "End": 918.8,
+            "Text": " and in case 2 it is going upstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 918.8,
+            "End": 920.8,
+            "Text": " is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 922.8,
+            "End": 924.8,
+            "Text": " 40 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 924.8,
+            "End": 926.8,
+            "Text": " and downstream is 55 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 927.1999999999999,
+            "End": 929.1999999999999,
+            "Text": " and this is going in 13 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 933.1999999999999,
+            "End": 935.1999999999999,
+            "Text": " Now we have to find"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 935.1999999999999,
+            "End": 937.1999999999999,
+            "Text": " the speed of man and man"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 937.1999999999999,
+            "End": 939.1999999999999,
+            "Text": " in still water"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 941.1999999999999,
+            "End": 943.1999999999999,
+            "Text": " Current is U"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 943.1999999999999,
+            "End": 945.1999999999999,
+            "Text": " and man is U"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 947.1999999999999,
+            "End": 949.1999999999999,
+            "Text": " So upstream speed is U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 949.1999999999999,
+            "End": 951.1999999999999,
+            "Text": " and downstream speed is U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 953.1999999999999,
+            "End": 955.1999999999999,
+            "Text": " Now we have to find"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 955.6,
+            "End": 957.6,
+            "Text": " distance upon speed"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 957.6,
+            "End": 959.6,
+            "Text": " is equal to time"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 959.6,
+            "End": 961.6,
+            "Text": " So when man is going upstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 961.6,
+            "End": 963.6,
+            "Text": " then how much time will it take?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 963.6,
+            "End": 965.6,
+            "Text": " Distance upon speed"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 965.6,
+            "End": 967.6,
+            "Text": " is equal to U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 967.6,
+            "End": 969.6,
+            "Text": " and when man is going downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 969.6,
+            "End": 971.6,
+            "Text": " then how much time will it take?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 971.6,
+            "End": 973.6,
+            "Text": " Distance is 44 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 973.6,
+            "End": 975.6,
+            "Text": " and speed is U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 977.6,
+            "End": 979.6,
+            "Text": " Now we have to add both the times"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 979.6,
+            "End": 981.6,
+            "Text": " and it will be 10 hours"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 981.6,
+            "End": 983.6,
+            "Text": " This is our first equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 984.0,
+            "End": 986.0,
+            "Text": " Now we will make the second equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 986.0,
+            "End": 988.0,
+            "Text": " When man is going upstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 988.0,
+            "End": 990.0,
+            "Text": " then how much time will it take?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 990.0,
+            "End": 992.0,
+            "Text": " 40 upon U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 996.0,
+            "End": 998.0,
+            "Text": " and when man is going downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 998.0,
+            "End": 1000.0,
+            "Text": " then how much time will it take?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1000.0,
+            "End": 1002.0,
+            "Text": " 55 upon U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1002.0,
+            "End": 1004.0,
+            "Text": " and this is our third equation"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1004.0,
+            "End": 1006.0,
+            "Text": " These are our two equations"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1006.0,
+            "End": 1008.0,
+            "Text": " and we have to solve"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1008.0,
+            "End": 1010.0,
+            "Text": " these two equations in two variables"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1010.0,
+            "End": 1012.0,
+            "Text": " How will we solve this?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1012.4,
+            "End": 1014.4,
+            "Text": " Let's assume"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1014.4,
+            "End": 1016.4,
+            "Text": " 1 upon U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1016.4,
+            "End": 1018.4,
+            "Text": " is equal to P"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1018.4,
+            "End": 1020.4,
+            "Text": " and 1 upon U"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1020.4,
+            "End": 1022.4,
+            "Text": " plus V is equal to Q"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1026.4,
+            "End": 1028.4,
+            "Text": " Now this is 30P"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1028.4,
+            "End": 1030.4,
+            "Text": " plus"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1030.4,
+            "End": 1032.4,
+            "Text": " 44Q"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1032.4,
+            "End": 1034.4,
+            "Text": " is equal to 10"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1034.4,
+            "End": 1036.4,
+            "Text": " and this is"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1036.4,
+            "End": 1038.4,
+            "Text": " 40P plus"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1038.4,
+            "End": 1040.4,
+            "Text": " 55Q is equal to 30"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1040.8000000000002,
+            "End": 1042.8000000000002,
+            "Text": " Now when we solve"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1042.8000000000002,
+            "End": 1044.8000000000002,
+            "Text": " these two equations"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1044.8000000000002,
+            "End": 1046.8000000000002,
+            "Text": " using simple method"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1046.8000000000002,
+            "End": 1048.8000000000002,
+            "Text": " then P will be equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1048.8000000000002,
+            "End": 1050.8000000000002,
+            "Text": " 1 by 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1050.8000000000002,
+            "End": 1052.8000000000002,
+            "Text": " and Q will be equal to 1 by 11"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1052.8000000000002,
+            "End": 1054.8000000000002,
+            "Text": " Now P was 1 upon"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1054.8000000000002,
+            "End": 1056.8000000000002,
+            "Text": " U-V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1056.8000000000002,
+            "End": 1058.8000000000002,
+            "Text": " is equal to 1 upon 5"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1058.8000000000002,
+            "End": 1060.8000000000002,
+            "Text": " and 1 upon U plus V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1060.8000000000002,
+            "End": 1062.8000000000002,
+            "Text": " is equal to 1 upon 11"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1064.8000000000002,
+            "End": 1066.8000000000002,
+            "Text": " So U-V is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1066.8000000000002,
+            "End": 1068.8000000000002,
+            "Text": " 5 and U plus V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1069.2,
+            "End": 1071.2,
+            "Text": " is equal to 11"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1071.2,
+            "End": 1073.2,
+            "Text": " Now we will add these two equations"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1073.2,
+            "End": 1075.2,
+            "Text": " and it will be"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1075.2,
+            "End": 1077.2,
+            "Text": " 2U is equal to 16"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1077.2,
+            "End": 1079.2,
+            "Text": " U is equal to 8 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1081.2,
+            "End": 1083.2,
+            "Text": " and what will be V?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1083.2,
+            "End": 1085.2,
+            "Text": " We will put it here"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1085.2,
+            "End": 1087.2,
+            "Text": " 8 minus V is equal to"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1087.2,
+            "End": 1089.2,
+            "Text": " 5 km"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1089.2,
+            "End": 1091.2,
+            "Text": " so V will be 3 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1093.2,
+            "End": 1095.2,
+            "Text": " So U and V are solved"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1095.2,
+            "End": 1097.2,
+            "Text": " and what was the question?"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1099.2,
+            "End": 1101.2,
+            "Text": " Rate of current was V"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1101.2,
+            "End": 1103.2,
+            "Text": " which is 3 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1103.2,
+            "End": 1105.2,
+            "Text": " and speed of men is 8 km per hour"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1105.2,
+            "End": 1107.2,
+            "Text": " So now we have done"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1107.2,
+            "End": 1109.2,
+            "Text": " the questions which are made"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1109.2,
+            "End": 1111.2,
+            "Text": " from boats and streams topic"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1111.2,
+            "End": 1113.2,
+            "Text": " upstream and downstream"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1113.2,
+            "End": 1115.2,
+            "Text": " There are some more questions"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1115.2,
+            "End": 1117.2,
+            "Text": " in the description box which you can ask"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1117.2,
+            "End": 1119.2,
+            "Text": " and if you have any doubt you can contact me"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1119.2,
+            "End": 1121.2,
+            "Text": " over LinkedIn or Instagram"
+        },
+        {
+            "Lecture": "3",
+            "Title": "Boats and Streams ",
+            "Start": 1121.2,
+            "End": 1123.2,
+            "Text": " See you in the next video"
+        }
+    ],
+    "text": " Hello everyone in this video we would be covering the topic boats and streams. Now what questions are there on boats and streams? There are such questions in this that suppose this is water and this is a boat on it. Now if we are driving the boat, suppose we are driving the boat at a speed of 5 km per hour, if the water is still, that means the water is not flowing in any direction. But if the water is also flowing in the same direction at a speed of 2 km per hour, then what will happen in that case? In this case, what will happen is that the speed of the boat is 5 km per hour in this direction, but the water is also taking it in the same direction at a speed of 2 km per hour. So its resultant speed will be 7 km per hour in this direction. Both speeds will be added. And what can be the second case? That here the flow of water is in the other direction. Means the direction in which the boat is going, the water is flowing in the opposite direction. Say 2 km per hour. So what will happen in this case? The resultant speed will be how much? The speed of the boat is in this direction, it is flowing at a speed of 5 km per hour, but the water is taking it in the other direction at a speed of 2 km per hour. So the resultant speed will be 3 km per hour in this direction. So our questions will be based on this concept. Now what do we do? Let's write this thing here. The first case we saw in which the direction of the boat and the direction of the water are the same. This case is called downstream. When the direction of the boat and the direction of the water will be the same, then it will be called downstream. And what will happen in this case? Velocities will be added. So let's assume that the speed of the boat was U and the speed of the water was V. So what will be the speeds in downstream? The resultant speed will be U plus V because velocities are added. Now let's take the second case. If our boat is going in this direction, then our water is flowing in the other direction. So in this case, we call it upstream. In this case, the velocity is subtracted. So what will happen in this case? U minus V. The speed at which the water is going in the opposite direction from the speed of the boat will be minused. So the resultant speed will be the speed at which the boat is moving forward. Now let's do the questions. What does it say here? A man can row upstream at 4 km per hour and downstream at 8 km per hour. Find man's rate in still water and the rate of current. Man's rate in still water means what will be the speed of the man if the water is not moving? We have to subtract U and the rate of current. Now what is given? We have been given the speed of upstream and downstream. So we just did that the speed of upstream is U minus V. And that is given as 4. And the speed of downstream is U plus V. And that is given as 8. Now we can easily solve these two equations and get U and V. U will be the rate of current of man in still water and V will be the rate of current of boat. If we add both the equations, then 2U is equal to 12. Adding both the equations. And U is 6 km per hour. Which means the speed of man in still water is 6 km per hour. And what will be V? Substitute it here. So this is 6 minus V is equal to 4. So V is 2 km per hour. This is the answer. This is the speed of man. And this is the speed of current. A man rows 24 km downstream and 16 km upstream. Taking 4 hours each time. It takes 4 hours for both the times. Now this is not the speed but the distance. How much distance he went downstream. He went 24 km and 16 km upstream. And he took 4 hours in both the journeys. 4 hours in first journey and 4 hours in second journey. Find the velocity of the current. So what do we have to find? We have to find V. Now let's see what all things are given for downstream. Now what is happening downstream. How much distance he covered while going downstream? 24 km. And how much time did he take? 4 hours. Now let's talk about upstream. How much distance did he cover? 3 km. And how much time did he take? 4 hours. So here we can find the speed of both the times. And as soon as we get both the speeds. Speed of upstream and speed of downstream. When we get speed of upstream and speed of downstream. So what will be the value of this thing? What will be the value of speed of downstream? It will be equal to U plus V. And what will be the value of speed of upstream? And what was given in the question? Find the velocity of current. Now let's take this out. What will be the speed of this? Distance upon time. So we will divide both of them. So it will be 24 divided by 4 is equal to 6 km per hour. This is the speed of downstream. Now what will be the speed of upstream? Distance divided by time. 16 divided by 4 is equal to 4 km per hour. Now we have the value of U plus V is 6. And the value of U minus V is 4. Now we have two equations. Two equations of two variables. We can solve them easily. Let's do it. Let's write it here. I am writing in this equation. U minus V is equal to 4. If you add both of them. It will be 2U is equal to 10. U is equal to 5. And if we subtract it here. It will be 6. And if we substitute it here. It will be 5 minus V is equal to 4. So V is equal to 1. And what did they ask? What is the speed of the current? Velocity of the current. So velocity of current is V. This is the answer. Next question. A man can row 4.5 km in still water. A man can row 4.5 km in still water. U is given here. And he finds that it takes him twice as long as to row up as to row down the river. It means that he takes double time to go upstream than to go downstream. If we are talking about the same distance. So it means that the speed of his upstream journey is just half of the speed of his downstream journey. It takes double time. It means that the speed is just half. They are inversely proportional. The formula is speed is equal to distance upon time. It is inversely proportional. And as we know that if someone's speed is more, it will take less time. So it takes double time to go upstream. It means that the speed is half. So what do we know from this? The speed of upstream is equal to half of the speed of downstream. Ok. Now what is given in the question? A man can row 4.5 km in still water. U is given here. U is equal to 4.5 km per hour. U is equal to 4.5 km per hour. Now what is asked? Find the rate of the stream. It means that we have to find the speed of the stream. What is the meaning of speed of upstream? It means that U minus V and U plus V. I will write this equation here. It was given in the question. We will write the speed of upstream. U minus V is equal to half of U plus V. U plus V is equal to half of U plus V. U plus V is equal to half of U plus V. 2U minus 2V is equal to U plus V and this is V. If this comes here then U is equal to 3V and V is equal to U by 3 and V is equal to 4.5 by 3 is equal to 1.5 km per hour. This is the answer. Next question A man can row 8 km per hour in still water. It means that U is given and the speed of the man is given. When the river is running at 2 km per hour it takes him 3 hours 12 minutes to row to a place and back. It is said that if the speed of the river is 2 km per hour then the man can row to a place and back and the man has to go back to the place. It is said that the man has to go back to the place and back in 3 hours and 12 minutes. When the man is going to the place he is going downstream and when he is coming back he is going upstream. So the man has to go upstream and then downstream and then upstream and downstream and then 3 hours 12 minutes. Next question How far is the place? We have to find the distance. So what is given here? Let us write the answer for both the answers. The answer is D distance which we have to find. Let us assume that T1 is the time and the speed is u plus b What is the scenario in upstream? The answer is D distance and the time is T2 and the speed is u minus b Now let us see the speed of the man and the answer is u and b which is given in the question. So the answer is 8 plus 2 which is 10 and the answer is 8 minus 2 which is 6 km per hour. Now let us talk about downstream. We can write a formula here Distance is equal to speed into time So distance D is equal to 10 T1 and D is equal to 6 T2 and both the distances are equal. So 10 T1 is equal to 6 T2 which is 5 T1 is equal to 3 T2 This is one equation. What was given in the question? It was given that it takes 3 hours 12 minutes to complete the task So it was given T1 plus T2 So how will we write 3 hours 12 minutes? We will write 3 hours plus 12 minutes which is 12 by 60 hours which is 1 by 5 3 plus 1 by 5 hours So this is one equation and the other is 3 plus 1 by 5 So from here we will take T1 from the above equation and from this equation So T1 will be 3 T2 upon 5 We will keep this in this equation 3 T2 upon 5 plus T2 is equal to 3 plus 1 upon 5 We will take T2 from this equation This is 8 T2 upon 5 and this is 16 by 5 This is subtracted from this equation So T2 is 16 upon 8 is equal to 2 hours T2 is 2 hours and we had to take the distance We will use this to take the distance 6 into 2 is equal to 12 km This is the answer Next question A man can row 30 km upstream and 44 km downstream in 10 hours Wahil He can row 40 km upstream and 40 km downstream in 13 hours Find the rate of current and the speed of man in still water Find the rate of current is equal to V and still water is equal to U Now we have to solve the equations based on the answers First we have to solve 30 km upstream and 44 km downstream in 10 hours First we will write case 1 and we are taking case 2 In case 1 it is written that upstream is 30 km and downstream is 44 km and this is going in 10 hours and in case 2 it is going upstream is equal to 40 km and downstream is 55 km and this is going in 13 hours Now we have to find the speed of man and man in still water Current is U and man is U So upstream speed is U-V and downstream speed is U-V Now we have to find distance upon speed is equal to time So when man is going upstream then how much time will it take? Distance upon speed is equal to U-V and when man is going downstream then how much time will it take? Distance is 44 km and speed is U-V Now we have to add both the times and it will be 10 hours This is our first equation Now we will make the second equation When man is going upstream then how much time will it take? 40 upon U-V and when man is going downstream then how much time will it take? 55 upon U-V and this is our third equation These are our two equations and we have to solve these two equations in two variables How will we solve this? Let's assume 1 upon U-V is equal to P and 1 upon U plus V is equal to Q Now this is 30P plus 44Q is equal to 10 and this is 40P plus 55Q is equal to 30 Now when we solve these two equations using simple method then P will be equal to 1 by 5 and Q will be equal to 1 by 11 Now P was 1 upon U-V is equal to 1 upon 5 and 1 upon U plus V is equal to 1 upon 11 So U-V is equal to 5 and U plus V is equal to 11 Now we will add these two equations and it will be 2U is equal to 16 U is equal to 8 km per hour and what will be V? We will put it here 8 minus V is equal to 5 km so V will be 3 km per hour So U and V are solved and what was the question? Rate of current was V which is 3 km per hour and speed of men is 8 km per hour So now we have done the questions which are made from boats and streams topic upstream and downstream There are some more questions in the description box which you can ask and if you have any doubt you can contact me over LinkedIn or Instagram See you in the next video"
+}

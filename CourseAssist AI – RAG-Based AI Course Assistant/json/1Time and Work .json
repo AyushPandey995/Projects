@@ -1,0 +1,2413 @@
+{
+    "chunks": [
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 0.0,
+            "End": 4.0,
+            "Text": " Hello everyone, so we are starting with the quantitative aptitude"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 4.0,
+            "End": 6.3,
+            "Text": " in which we are taking the first topic time and work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 6.3,
+            "End": 9.0,
+            "Text": " now what kind of questions are made on time and work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 9.0,
+            "End": 14.3,
+            "Text": " like you must have been given that there is a person who does this work in 2 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 14.3,
+            "End": 19.900000000000002,
+            "Text": " and there is a person who does the same amount of work in 3 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 19.900000000000002,
+            "End": 27.0,
+            "Text": " so if you work together then how much time will he complete the same amount of work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 27.0,
+            "End": 32.3,
+            "Text": " so what do you have to understand here"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 32.3,
+            "End": 37.3,
+            "Text": " suppose you have been given that there is a person who does that work in 2 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 37.3,
+            "End": 47.3,
+            "Text": " it means that he is doing half of the work in one day and half in the next day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 47.3,
+            "End": 51.3,
+            "Text": " so he is doing half the work in one day and half in the next day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 51.3,
+            "End": 54.3,
+            "Text": " so he is doing the work in 2 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 54.599999999999994,
+            "End": 60.599999999999994,
+            "Text": " now suppose he is doing the work in 3 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 60.599999999999994,
+            "End": 66.6,
+            "Text": " it means that he will do the work in 1 by 3 in the first day and the next day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 66.6,
+            "End": 71.6,
+            "Text": " so what we are getting to know is that if there is anyone here"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 71.6,
+            "End": 78.6,
+            "Text": " and he is doing the work in d days or in x hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 78.89999999999999,
+            "End": 84.89999999999999,
+            "Text": " so how much work is he doing in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 84.89999999999999,
+            "End": 87.89999999999999,
+            "Text": " or how much work is he doing in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 87.89999999999999,
+            "End": 89.89999999999999,
+            "Text": " now we will ask a question"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 89.89999999999999,
+            "End": 95.89999999999999,
+            "Text": " A can do a piece of work in 12 hours and B can do it in 15 hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 95.89999999999999,
+            "End": 100.89999999999999,
+            "Text": " if A does it alone then he does it in 12 hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 100.89999999999999,
+            "End": 106.89999999999999,
+            "Text": " and if B does it alone then he does it in 15 hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 107.2,
+            "End": 111.2,
+            "Text": " how much time will they finish the whole work working together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 111.2,
+            "End": 114.2,
+            "Text": " now if they are working together then how much time will they take"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 114.2,
+            "End": 119.2,
+            "Text": " so now we will write how much work A will do in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 119.2,
+            "End": 121.2,
+            "Text": " 1 by 12"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 121.2,
+            "End": 127.2,
+            "Text": " now we have seen that he will do 1 by 12 in every hour and he will complete the work in 12 hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 127.2,
+            "End": 131.20000000000002,
+            "Text": " and how much work B will do in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 131.20000000000002,
+            "End": 133.20000000000002,
+            "Text": " 1 by 15"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 133.5,
+            "End": 143.5,
+            "Text": " now in the first hour A is working with his speed and B is working with his speed"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 143.5,
+            "End": 150.5,
+            "Text": " so A will complete the work in 1 by 12 and B will complete the work in 1 by 15"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 150.5,
+            "End": 156.5,
+            "Text": " so now when they are working together then in this 1 hour 1 by 12 plus 1 by 15 of the work is done"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 156.8,
+            "End": 162.8,
+            "Text": " so when A and B work together then A and B in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 162.8,
+            "End": 164.8,
+            "Text": " how much work will they do in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 164.8,
+            "End": 169.8,
+            "Text": " 1 by 12 A is doing and 1 by 15 B is doing so 1 by 12 plus 1 by 15"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 169.8,
+            "End": 175.8,
+            "Text": " so this is 9 by 60 which is 3 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 175.8,
+            "End": 181.8,
+            "Text": " now when A and B are working together then they are completing 3 by 20 of the work in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 182.10000000000002,
+            "End": 186.10000000000002,
+            "Text": " so this is not the same as we have seen in the starting"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 186.10000000000002,
+            "End": 192.10000000000002,
+            "Text": " that if A is doing the complete work in 12 hours then he is doing 1 by 12 of the work in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 192.10000000000002,
+            "End": 198.10000000000002,
+            "Text": " so we can also say that if A is doing 1 by 12 of the work in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 198.10000000000002,
+            "End": 202.10000000000002,
+            "Text": " then he will do the complete work in 12 hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 202.10000000000002,
+            "End": 206.10000000000002,
+            "Text": " so here A and B in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 206.10000000000002,
+            "End": 211.10000000000002,
+            "Text": " our answer is here because A and B are doing 3 by 20 work in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 211.4,
+            "End": 217.4,
+            "Text": " so when A and B are working together then how much work will they complete in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 217.4,
+            "End": 221.4,
+            "Text": " 20 by 3 hours"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 221.4,
+            "End": 223.4,
+            "Text": " the same logic is being applied"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 223.4,
+            "End": 225.4,
+            "Text": " next question"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 225.4,
+            "End": 231.4,
+            "Text": " now A and B are doing the work in 12 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 231.4,
+            "End": 235.4,
+            "Text": " if B is doing it alone then he is doing it in 30 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 235.4,
+            "End": 237.4,
+            "Text": " so how much time will A do it in"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 237.4,
+            "End": 239.4,
+            "Text": " so what will we do"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 239.70000000000002,
+            "End": 243.70000000000002,
+            "Text": " we will subtract the plus sign"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 243.70000000000002,
+            "End": 247.70000000000002,
+            "Text": " A and B in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 247.70000000000002,
+            "End": 249.70000000000002,
+            "Text": " how much will they do in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 249.70000000000002,
+            "End": 251.70000000000002,
+            "Text": " 1 by 12"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 251.70000000000002,
+            "End": 253.70000000000002,
+            "Text": " sorry sorry sorry"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 253.70000000000002,
+            "End": 255.70000000000002,
+            "Text": " not in 1 hour"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 255.70000000000002,
+            "End": 257.7,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 257.7,
+            "End": 261.7,
+            "Text": " so A and B will do 1 by 12 of the work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 261.7,
+            "End": 265.7,
+            "Text": " B will do 1 by 30 of the work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 266.0,
+            "End": 270.0,
+            "Text": " now how much will A do in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 270.0,
+            "End": 272.0,
+            "Text": " A in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 272.0,
+            "End": 274.0,
+            "Text": " how much will he do"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 274.0,
+            "End": 278.0,
+            "Text": " when they were doing it together then it was 1 by 12 of the work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 278.0,
+            "End": 280.0,
+            "Text": " so how much will he do"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 280.0,
+            "End": 282.0,
+            "Text": " so from 1 by 12"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 282.0,
+            "End": 284.0,
+            "Text": " B will do 60"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 284.0,
+            "End": 286.0,
+            "Text": " 5 minus 2"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 286.0,
+            "End": 288.0,
+            "Text": " 3 by 60"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 288.0,
+            "End": 290.0,
+            "Text": " 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 290.0,
+            "End": 292.0,
+            "Text": " so in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 292.0,
+            "End": 294.0,
+            "Text": " A will do 1 by 20 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 294.3,
+            "End": 296.3,
+            "Text": " so A will do 1 by 20 work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 296.3,
+            "End": 298.3,
+            "Text": " so how much time will A do"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 298.3,
+            "End": 300.3,
+            "Text": " 20 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 300.3,
+            "End": 302.3,
+            "Text": " this is the answer"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 302.3,
+            "End": 304.3,
+            "Text": " now next question"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 304.3,
+            "End": 306.3,
+            "Text": " A and B"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 306.3,
+            "End": 308.3,
+            "Text": " will do the work in 18 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 308.3,
+            "End": 310.3,
+            "Text": " B and C will do the same work in 24 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 310.3,
+            "End": 312.3,
+            "Text": " and C and A will do it in 36 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 312.3,
+            "End": 314.3,
+            "Text": " now we have to find out"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 314.3,
+            "End": 316.3,
+            "Text": " when A, B and C will do the same work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 316.3,
+            "End": 318.3,
+            "Text": " when they are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 318.3,
+            "End": 320.3,
+            "Text": " in pairs"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 320.3,
+            "End": 322.3,
+            "Text": " when they are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 322.6,
+            "End": 324.6,
+            "Text": " so how much time will they do"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 324.6,
+            "End": 326.6,
+            "Text": " now see"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 326.6,
+            "End": 328.6,
+            "Text": " A and B are doing it in 18 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 328.6,
+            "End": 330.6,
+            "Text": " so when A and B are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 330.6,
+            "End": 332.6,
+            "Text": " then how much work is done in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 332.6,
+            "End": 334.6,
+            "Text": " 1 by 18"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 334.6,
+            "End": 336.6,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 336.6,
+            "End": 338.6,
+            "Text": " when B and C are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 338.6,
+            "End": 340.6,
+            "Text": " 1 by 24"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 340.6,
+            "End": 342.6,
+            "Text": " and C and A"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 342.6,
+            "End": 344.6,
+            "Text": " how much work is done in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 344.6,
+            "End": 346.6,
+            "Text": " 1 by 36"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 346.6,
+            "End": 348.6,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 348.6,
+            "End": 350.6,
+            "Text": " now we have to find out"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 350.90000000000003,
+            "End": 352.90000000000003,
+            "Text": " how much work is done by A, B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 352.90000000000003,
+            "End": 354.90000000000003,
+            "Text": " now if you add all these three"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 354.90000000000003,
+            "End": 356.90000000000003,
+            "Text": " because we have to find out"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 356.90000000000003,
+            "End": 358.90000000000003,
+            "Text": " A, B, C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 358.90000000000003,
+            "End": 360.90000000000003,
+            "Text": " so what will happen"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 360.90000000000003,
+            "End": 362.90000000000003,
+            "Text": " A and B are doing the same work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 362.90000000000003,
+            "End": 364.90000000000003,
+            "Text": " so we will get 2A, 2B and 2C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 364.90000000000003,
+            "End": 366.90000000000003,
+            "Text": " we have to find out A, B, C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 366.90000000000003,
+            "End": 368.90000000000003,
+            "Text": " so we will find out 2A, 2B and 2C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 368.90000000000003,
+            "End": 370.90000000000003,
+            "Text": " now what we will do"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 370.90000000000003,
+            "End": 372.90000000000003,
+            "Text": " we will add them"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 372.90000000000003,
+            "End": 374.90000000000003,
+            "Text": " so A, B and B"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 374.90000000000003,
+            "End": 376.90000000000003,
+            "Text": " I hope you are getting it"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 376.90000000000003,
+            "End": 378.90000000000003,
+            "Text": " 2A, B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 379.2,
+            "End": 381.2,
+            "Text": " so how much work is done by A, B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 381.2,
+            "End": 383.2,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 383.2,
+            "End": 385.2,
+            "Text": " 1 by 18"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 385.2,
+            "End": 387.2,
+            "Text": " plus 1 by 24"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 387.2,
+            "End": 389.2,
+            "Text": " plus 1 by 36"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 389.2,
+            "End": 391.2,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 391.2,
+            "End": 393.2,
+            "Text": " so how much work is done"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 393.2,
+            "End": 395.2,
+            "Text": " 72"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 395.2,
+            "End": 397.2,
+            "Text": " 4"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 397.2,
+            "End": 399.2,
+            "Text": " 3"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 399.2,
+            "End": 401.2,
+            "Text": " 2"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 401.2,
+            "End": 403.2,
+            "Text": " 9 by 72"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 403.2,
+            "End": 405.2,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 405.2,
+            "End": 407.2,
+            "Text": " so this is the work done by A, B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 407.5,
+            "End": 409.5,
+            "Text": " and this is 1 by 8"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 411.5,
+            "End": 413.5,
+            "Text": " when 2A, 2B and 2C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 413.5,
+            "End": 415.5,
+            "Text": " are doing the same work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 415.5,
+            "End": 417.5,
+            "Text": " so this is 1 by 8 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 417.5,
+            "End": 419.5,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 419.5,
+            "End": 421.5,
+            "Text": " so how much work is done by A, B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 421.5,
+            "End": 423.5,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 425.5,
+            "End": 427.5,
+            "Text": " 2 by 2 will be divided by 1 by 16"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 427.5,
+            "End": 429.5,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 429.5,
+            "End": 431.5,
+            "Text": " so you got the answer"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 431.5,
+            "End": 433.5,
+            "Text": " because they are doing 1 by 16 work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 433.5,
+            "End": 435.5,
+            "Text": " so how many days will they complete the work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 435.8,
+            "End": 437.8,
+            "Text": " 16 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 439.8,
+            "End": 441.8,
+            "Text": " now we have to find out A"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 441.8,
+            "End": 443.8,
+            "Text": " so we have A, B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 443.8,
+            "End": 445.8,
+            "Text": " and we know"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 445.8,
+            "End": 447.8,
+            "Text": " B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 447.8,
+            "End": 449.8,
+            "Text": " B and C are done in 24 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 449.8,
+            "End": 451.8,
+            "Text": " A, B and C are done in 16 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 451.8,
+            "End": 453.8,
+            "Text": " so A, B and C in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 453.8,
+            "End": 455.8,
+            "Text": " is this much"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 455.8,
+            "End": 457.8,
+            "Text": " and B and C in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 457.8,
+            "End": 459.8,
+            "Text": " is 1 by 24"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 459.8,
+            "End": 461.8,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 461.8,
+            "End": 463.8,
+            "Text": " so what will happen to A in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 464.1,
+            "End": 466.1,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 466.1,
+            "End": 468.1,
+            "Text": " A, B and C will subtract"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 468.1,
+            "End": 470.1,
+            "Text": " the work done by B and C"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 470.1,
+            "End": 472.1,
+            "Text": " so 1 by 16 will be left"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 472.1,
+            "End": 474.1,
+            "Text": " so 1 by 16 minus 1 by 24"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 476.1,
+            "End": 478.1,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 478.1,
+            "End": 480.1,
+            "Text": " and 3 minus 2"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 480.1,
+            "End": 482.1,
+            "Text": " will be 1 by 48"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 482.1,
+            "End": 484.1,
+            "Text": " so you got the answer"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 484.1,
+            "End": 486.1,
+            "Text": " because A in 1 day is doing 1 by 48 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 486.1,
+            "End": 488.1,
+            "Text": " so in 48 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 488.1,
+            "End": 490.1,
+            "Text": " A will complete the work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 490.1,
+            "End": 492.1,
+            "Text": " if he is doing the work alone"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 492.40000000000003,
+            "End": 494.40000000000003,
+            "Text": " so this is the answer"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 494.40000000000003,
+            "End": 496.40000000000003,
+            "Text": " 48 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 498.40000000000003,
+            "End": 500.40000000000003,
+            "Text": " now"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 500.40000000000003,
+            "End": 502.40000000000003,
+            "Text": " A and B can do a piece of work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 502.40000000000003,
+            "End": 504.40000000000003,
+            "Text": " in 40 and 45 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 504.40000000000003,
+            "End": 506.40000000000003,
+            "Text": " respectively, they begin the work together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 506.40000000000003,
+            "End": 508.40000000000003,
+            "Text": " but A leaves after sometime"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 508.40000000000003,
+            "End": 510.40000000000003,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 510.40000000000003,
+            "End": 512.4,
+            "Text": " A and B are given separately"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 512.4,
+            "End": 514.4,
+            "Text": " A is done in 45 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 514.4,
+            "End": 516.4,
+            "Text": " B is done in 40 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 516.4,
+            "End": 518.4,
+            "Text": " if they are doing it alone"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 518.4,
+            "End": 520.4,
+            "Text": " now they started working together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 520.6999999999999,
+            "End": 522.6999999999999,
+            "Text": " and B finished the remaining work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 522.6999999999999,
+            "End": 524.6999999999999,
+            "Text": " in 23 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 524.6999999999999,
+            "End": 526.6999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 526.6999999999999,
+            "End": 528.6999999999999,
+            "Text": " now we will write the answers for 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 528.6999999999999,
+            "End": 530.6999999999999,
+            "Text": " first we will write the answers for 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 530.6999999999999,
+            "End": 532.6999999999999,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 532.6999999999999,
+            "End": 534.6999999999999,
+            "Text": " A is doing 1 by 45 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 534.6999999999999,
+            "End": 536.6999999999999,
+            "Text": " in 45 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 536.6999999999999,
+            "End": 538.6999999999999,
+            "Text": " A is doing 1 by 45 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 538.6999999999999,
+            "End": 540.6999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 540.6999999999999,
+            "End": 542.6999999999999,
+            "Text": " A is doing 1 by 45 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 542.6999999999999,
+            "End": 544.6999999999999,
+            "Text": " B is doing 1 by 40 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 544.6999999999999,
+            "End": 546.6999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 546.6999999999999,
+            "End": 548.6999999999999,
+            "Text": " and if A and B are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 549.0,
+            "End": 551.0,
+            "Text": " so we will write"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 551.0,
+            "End": 553.0,
+            "Text": " 1 by 40 plus 1 by 45"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 553.0,
+            "End": 555.0,
+            "Text": " 1 by 40 plus 1 by 45"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 555.0,
+            "End": 557.0,
+            "Text": " means"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 557.0,
+            "End": 559.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 559.0,
+            "End": 561.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 561.0,
+            "End": 563.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 563.0,
+            "End": 565.0,
+            "Text": " and"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 565.0,
+            "End": 567.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 567.0,
+            "End": 569.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 569.0,
+            "End": 571.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 571.0,
+            "End": 573.0,
+            "Text": " 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 573.0,
+            "End": 575.0,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 575.0,
+            "End": 577.0,
+            "Text": " A and B are doing 17 by 360 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 577.3,
+            "End": 579.3,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 579.3,
+            "End": 581.3,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 581.3,
+            "End": 583.3,
+            "Text": " now"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 583.3,
+            "End": 585.3,
+            "Text": " now in this"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 585.3,
+            "End": 587.3,
+            "Text": " what is happening is"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 587.3,
+            "End": 589.3,
+            "Text": " A and B are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 589.3,
+            "End": 591.3,
+            "Text": " and B is doing it alone"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 591.3,
+            "End": 593.3,
+            "Text": " B has done it alone in 23 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 593.3,
+            "End": 595.3,
+            "Text": " so they are working at their speed"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 595.3,
+            "End": 597.3,
+            "Text": " and they are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 597.3,
+            "End": 599.3,
+            "Text": " so they are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 599.3,
+            "End": 601.3,
+            "Text": " and they are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 601.3,
+            "End": 603.3,
+            "Text": " and they are doing it together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 603.3,
+            "End": 605.3,
+            "Text": " so"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 635.5999999999999,
+            "End": 637.5999999999999,
+            "Text": " so we will remove it"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 637.5999999999999,
+            "End": 639.5999999999999,
+            "Text": " from the total work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 639.5999999999999,
+            "End": 641.5999999999999,
+            "Text": " when B has done it alone in 23 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 641.5999999999999,
+            "End": 643.5999999999999,
+            "Text": " so in 1 day he is doing 1 by 40 work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 643.5999999999999,
+            "End": 645.5999999999999,
+            "Text": " B"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 645.5999999999999,
+            "End": 647.5999999999999,
+            "Text": " so in 23 days B must have done"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 647.5999999999999,
+            "End": 649.5999999999999,
+            "Text": " 23 into 1 by 40"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 649.5999999999999,
+            "End": 651.5999999999999,
+            "Text": " and we will"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 651.5999999999999,
+            "End": 653.5999999999999,
+            "Text": " minus it from 1"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 653.5999999999999,
+            "End": 655.5999999999999,
+            "Text": " so this much work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 655.5999999999999,
+            "End": 657.5999999999999,
+            "Text": " A and B have done together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 657.5999999999999,
+            "End": 659.5999999999999,
+            "Text": " so this will be"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 659.5999999999999,
+            "End": 661.5999999999999,
+            "Text": " 17 by 40"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 661.5999999999999,
+            "End": 663.5999999999999,
+            "Text": " now what is the question"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 663.9,
+            "End": 665.9,
+            "Text": " A and B work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 665.9,
+            "End": 667.9,
+            "Text": " let me change the color"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 667.9,
+            "End": 669.9,
+            "Text": " A and B work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 669.9,
+            "End": 671.9,
+            "Text": " 17 by 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 671.9,
+            "End": 673.9,
+            "Text": " so in how many days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 673.9,
+            "End": 675.9,
+            "Text": " they will work 17 by 40"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 675.9,
+            "End": 677.9,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 677.9,
+            "End": 679.9,
+            "Text": " and this is directly showing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 679.9,
+            "End": 681.9,
+            "Text": " 9 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 681.9,
+            "End": 683.9,
+            "Text": " this is simple unitary method of question"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 683.9,
+            "End": 685.9,
+            "Text": " that in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 685.9,
+            "End": 687.9,
+            "Text": " they do this much work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 687.9,
+            "End": 689.9,
+            "Text": " so in how many days they will do this much work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 689.9,
+            "End": 691.9,
+            "Text": " let's say in x days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 692.1999999999999,
+            "End": 694.1999999999999,
+            "Text": " so"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 694.1999999999999,
+            "End": 696.1999999999999,
+            "Text": " 17 by 360"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 696.1999999999999,
+            "End": 698.1999999999999,
+            "Text": " into x"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 698.1999999999999,
+            "End": 700.1999999999999,
+            "Text": " this is equal to"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 700.1999999999999,
+            "End": 702.1999999999999,
+            "Text": " 17 by 40"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 708.1999999999999,
+            "End": 710.1999999999999,
+            "Text": " and then x is equal to 9"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 712.1999999999999,
+            "End": 714.1999999999999,
+            "Text": " so in 9 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 714.1999999999999,
+            "End": 716.1999999999999,
+            "Text": " A and B worked together"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 716.1999999999999,
+            "End": 718.1999999999999,
+            "Text": " after 9 days A left and B worked for 13 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 718.1999999999999,
+            "End": 720.1999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 722.1999999999999,
+            "End": 724.1999999999999,
+            "Text": " now"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 724.1999999999999,
+            "End": 726.1999999999999,
+            "Text": " there is a slight change in the question"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 726.1999999999999,
+            "End": 728.1999999999999,
+            "Text": " earlier we were given that A and B work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 728.1999999999999,
+            "End": 730.1999999999999,
+            "Text": " now we are given that"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 730.1999999999999,
+            "End": 732.1999999999999,
+            "Text": " 4 men and 6 boys"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 732.1999999999999,
+            "End": 734.1999999999999,
+            "Text": " can finish a piece of work in 20 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 734.1999999999999,
+            "End": 736.1999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 736.1999999999999,
+            "End": 738.1999999999999,
+            "Text": " so it means that"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 738.1999999999999,
+            "End": 740.1999999999999,
+            "Text": " 4 men"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 740.1999999999999,
+            "End": 742.1999999999999,
+            "Text": " do the work in 20 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 742.1999999999999,
+            "End": 744.1999999999999,
+            "Text": " and if there are 6 boys"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 744.1999999999999,
+            "End": 746.1999999999999,
+            "Text": " they do the work in 20 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 746.1999999999999,
+            "End": 748.1999999999999,
+            "Text": " so here it is written that 4 men"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 748.1999999999999,
+            "End": 750.1999999999999,
+            "Text": " are doing the work in 20 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 750.5,
+            "End": 752.5,
+            "Text": " so it means that 4 men are doing the work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 752.5,
+            "End": 754.5,
+            "Text": " 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 754.5,
+            "End": 756.5,
+            "Text": " so when 4 men are doing the work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 756.5,
+            "End": 758.5,
+            "Text": " then how much work is 1 man doing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 758.5,
+            "End": 760.5,
+            "Text": " 1 by 20 is equal to 1 by 4"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 760.5,
+            "End": 762.5,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 762.5,
+            "End": 764.5,
+            "Text": " so"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 764.5,
+            "End": 766.5,
+            "Text": " let's write in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 766.5,
+            "End": 768.5,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 768.5,
+            "End": 770.5,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 770.5,
+            "End": 772.5,
+            "Text": " so in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 772.5,
+            "End": 774.5,
+            "Text": " 4 men are doing the work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 774.5,
+            "End": 776.5,
+            "Text": " 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 776.5,
+            "End": 778.5,
+            "Text": " and how much work is 1 man doing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 778.8,
+            "End": 780.8,
+            "Text": " 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 780.8,
+            "End": 782.8,
+            "Text": " divided by 4"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 782.8,
+            "End": 784.8,
+            "Text": " means"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 784.8,
+            "End": 786.8,
+            "Text": " 1 by 80"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 786.8,
+            "End": 788.8,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 788.8,
+            "End": 790.8,
+            "Text": " and how much work is 6 boys doing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 790.8,
+            "End": 792.8,
+            "Text": " in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 792.8,
+            "End": 794.8,
+            "Text": " so 6 boys do the work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 794.8,
+            "End": 796.8,
+            "Text": " 1 by 20 of the work"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 796.8,
+            "End": 798.8,
+            "Text": " and how much work is 1 boy doing in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 798.8,
+            "End": 800.8,
+            "Text": " 1 by 20 divided by 6"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 800.8,
+            "End": 802.8,
+            "Text": " means 1 by 120"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 802.8,
+            "End": 804.8,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 804.8,
+            "End": 806.8,
+            "Text": " now in how many days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 807.0999999999999,
+            "End": 809.0999999999999,
+            "Text": " 6 men and 11 boys finish it"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 809.0999999999999,
+            "End": 811.0999999999999,
+            "Text": " so"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 811.0999999999999,
+            "End": 813.0999999999999,
+            "Text": " now let's take out 1 day work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 813.0999999999999,
+            "End": 815.0999999999999,
+            "Text": " 6 men"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 815.0999999999999,
+            "End": 817.0999999999999,
+            "Text": " and 11 boys"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 817.0999999999999,
+            "End": 819.0999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 819.0999999999999,
+            "End": 821.0999999999999,
+            "Text": " now how much work is 1 boy doing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 821.0999999999999,
+            "End": 823.0999999999999,
+            "Text": " 1 by 80"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 823.0999999999999,
+            "End": 825.0999999999999,
+            "Text": " 1 man doing 1 by 80"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 825.0999999999999,
+            "End": 827.0999999999999,
+            "Text": " so how much work is 6 men doing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 827.0999999999999,
+            "End": 829.0999999999999,
+            "Text": " 6 by 80"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 829.0999999999999,
+            "End": 831.0999999999999,
+            "Text": " plus"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 831.0999999999999,
+            "End": 833.0999999999999,
+            "Text": " 1 boy doing 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 833.0999999999999,
+            "End": 835.0999999999999,
+            "Text": " so how much work is 1 man doing"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 835.4,
+            "End": 837.4,
+            "Text": " 11 by 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 837.4,
+            "End": 839.4,
+            "Text": " 11 by 1 by 20"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 839.4,
+            "End": 841.4,
+            "Text": " 11 by 120"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 841.4,
+            "End": 843.4,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 843.4,
+            "End": 845.4,
+            "Text": " so this is the work of 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 845.4,
+            "End": 847.4,
+            "Text": " now let's take out the answer"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 847.4,
+            "End": 849.4,
+            "Text": " so"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 849.4,
+            "End": 851.4,
+            "Text": " this is 1"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 851.4,
+            "End": 853.4,
+            "Text": " 240"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 853.4,
+            "End": 855.4,
+            "Text": " 240 will be the answer"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 855.4,
+            "End": 857.4,
+            "Text": " 318 plus"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 857.4,
+            "End": 859.4,
+            "Text": " 22"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 859.4,
+            "End": 861.4,
+            "Text": " means 40"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 861.4,
+            "End": 863.4,
+            "Text": " 40 by 240"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 863.6999999999999,
+            "End": 865.6999999999999,
+            "Text": " divided by"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 865.6999999999999,
+            "End": 867.6999999999999,
+            "Text": " 6"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 867.6999999999999,
+            "End": 869.6999999999999,
+            "Text": " sorry 1 by 6"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 869.6999999999999,
+            "End": 871.6999999999999,
+            "Text": " so 6 men and 11 boys"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 871.6999999999999,
+            "End": 873.6999999999999,
+            "Text": " are doing 1 by 6 of the work in 1 day"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 873.6999999999999,
+            "End": 875.6999999999999,
+            "Text": " so how much time will it take"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 875.6999999999999,
+            "End": 877.6999999999999,
+            "Text": " 6 days"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 877.6999999999999,
+            "End": 879.6999999999999,
+            "Text": " ok"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 879.6999999999999,
+            "End": 881.6999999999999,
+            "Text": " so i guess we have covered the questions"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 881.6999999999999,
+            "End": 883.6999999999999,
+            "Text": " in description box there are some questions"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 883.6999999999999,
+            "End": 885.6999999999999,
+            "Text": " that you guys can try"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 885.6999999999999,
+            "End": 887.6999999999999,
+            "Text": " with the answers"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 887.6999999999999,
+            "End": 889.6999999999999,
+            "Text": " and if you have any doubt"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 889.6999999999999,
+            "End": 891.6999999999999,
+            "Text": " you can ask me over"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 892.0,
+            "End": 894.0,
+            "Text": " linkedin or over instagram"
+        },
+        {
+            "Lecture": "1",
+            "Title": "Time and Work ",
+            "Start": 894.0,
+            "End": 896.0,
+            "Text": " thank you"
+        }
+    ],
+    "text": " Hello everyone, so we are starting with the quantitative aptitude in which we are taking the first topic time and work now what kind of questions are made on time and work like you must have been given that there is a person who does this work in 2 days and there is a person who does the same amount of work in 3 days so if you work together then how much time will he complete the same amount of work so what do you have to understand here suppose you have been given that there is a person who does that work in 2 days it means that he is doing half of the work in one day and half in the next day so he is doing half the work in one day and half in the next day so he is doing the work in 2 days now suppose he is doing the work in 3 days it means that he will do the work in 1 by 3 in the first day and the next day so what we are getting to know is that if there is anyone here and he is doing the work in d days or in x hours so how much work is he doing in 1 hour or how much work is he doing in 1 day now we will ask a question A can do a piece of work in 12 hours and B can do it in 15 hours if A does it alone then he does it in 12 hours and if B does it alone then he does it in 15 hours how much time will they finish the whole work working together now if they are working together then how much time will they take so now we will write how much work A will do in 1 hour 1 by 12 now we have seen that he will do 1 by 12 in every hour and he will complete the work in 12 hours and how much work B will do in 1 hour 1 by 15 now in the first hour A is working with his speed and B is working with his speed so A will complete the work in 1 by 12 and B will complete the work in 1 by 15 so now when they are working together then in this 1 hour 1 by 12 plus 1 by 15 of the work is done so when A and B work together then A and B in 1 hour how much work will they do in 1 hour 1 by 12 A is doing and 1 by 15 B is doing so 1 by 12 plus 1 by 15 so this is 9 by 60 which is 3 by 20 now when A and B are working together then they are completing 3 by 20 of the work in 1 hour so this is not the same as we have seen in the starting that if A is doing the complete work in 12 hours then he is doing 1 by 12 of the work in 1 hour so we can also say that if A is doing 1 by 12 of the work in 1 hour then he will do the complete work in 12 hours so here A and B in 1 hour our answer is here because A and B are doing 3 by 20 work in 1 hour so when A and B are working together then how much work will they complete in 1 hour 20 by 3 hours the same logic is being applied next question now A and B are doing the work in 12 days if B is doing it alone then he is doing it in 30 days so how much time will A do it in so what will we do we will subtract the plus sign A and B in 1 hour how much will they do in 1 hour 1 by 12 sorry sorry sorry not in 1 hour in 1 day so A and B will do 1 by 12 of the work in 1 day B will do 1 by 30 of the work now how much will A do in 1 day A in 1 day how much will he do when they were doing it together then it was 1 by 12 of the work so how much will he do so from 1 by 12 B will do 60 5 minus 2 3 by 60 1 by 20 so in 1 day A will do 1 by 20 work so A will do 1 by 20 work in 1 day so how much time will A do 20 days this is the answer now next question A and B will do the work in 18 days B and C will do the same work in 24 days and C and A will do it in 36 days now we have to find out when A, B and C will do the same work when they are doing it together in pairs when they are doing it together so how much time will they do now see A and B are doing it in 18 days so when A and B are doing it together then how much work is done in 1 day 1 by 18 ok when B and C are doing it together 1 by 24 and C and A how much work is done in 1 day 1 by 36 ok now we have to find out how much work is done by A, B and C now if you add all these three because we have to find out A, B, C so what will happen A and B are doing the same work in 1 day so we will get 2A, 2B and 2C we have to find out A, B, C so we will find out 2A, 2B and 2C now what we will do we will add them so A, B and B I hope you are getting it 2A, B and C so how much work is done by A, B and C in 1 day 1 by 18 plus 1 by 24 plus 1 by 36 ok so how much work is done 72 4 3 2 9 by 72 ok so this is the work done by A, B and C and this is 1 by 8 when 2A, 2B and 2C are doing the same work so this is 1 by 8 work in 1 day so how much work is done by A, B and C in 1 day 2 by 2 will be divided by 1 by 16 ok so you got the answer because they are doing 1 by 16 work in 1 day so how many days will they complete the work 16 days now we have to find out A so we have A, B and C and we know B and C B and C are done in 24 days A, B and C are done in 16 days so A, B and C in 1 day is this much and B and C in 1 day is 1 by 24 ok so what will happen to A in 1 day in 1 day A, B and C will subtract the work done by B and C so 1 by 16 will be left so 1 by 16 minus 1 by 24 ok and 3 minus 2 will be 1 by 48 so you got the answer because A in 1 day is doing 1 by 48 work so in 48 days A will complete the work if he is doing the work alone so this is the answer 48 days now A and B can do a piece of work in 40 and 45 days respectively, they begin the work together but A leaves after sometime ok A and B are given separately A is done in 45 days B is done in 40 days if they are doing it alone now they started working together and B finished the remaining work in 23 days ok now we will write the answers for 1 day first we will write the answers for 1 day in 1 day A is doing 1 by 45 work in 45 days A is doing 1 by 45 work ok A is doing 1 by 45 work B is doing 1 by 40 work ok and if A and B are doing it together so we will write 1 by 40 plus 1 by 45 1 by 40 plus 1 by 45 means 360 360 360 and 360 360 360 360 ok A and B are doing 17 by 360 work ok ok now now in this what is happening is A and B are doing it together and B is doing it alone B has done it alone in 23 days so they are working at their speed and they are doing it together so they are doing it together and they are doing it together and they are doing it together so so we will remove it from the total work when B has done it alone in 23 days so in 1 day he is doing 1 by 40 work B so in 23 days B must have done 23 into 1 by 40 and we will minus it from 1 so this much work A and B have done together so this will be 17 by 40 now what is the question A and B work in 1 day let me change the color A and B work in 1 day 17 by 360 so in how many days they will work 17 by 40 ok and this is directly showing 9 days this is simple unitary method of question that in 1 day they do this much work so in how many days they will do this much work let's say in x days so 17 by 360 into x this is equal to 17 by 40 and then x is equal to 9 so in 9 days A and B worked together after 9 days A left and B worked for 13 days ok now there is a slight change in the question earlier we were given that A and B work in 1 day now we are given that 4 men and 6 boys can finish a piece of work in 20 days ok so it means that 4 men do the work in 20 days and if there are 6 boys they do the work in 20 days so here it is written that 4 men are doing the work in 20 days so it means that 4 men are doing the work in 1 day 1 by 20 so when 4 men are doing the work in 1 day then how much work is 1 man doing 1 by 20 is equal to 1 by 4 ok so let's write in 1 day in 1 day ok so in 1 day 4 men are doing the work in 1 day 1 by 20 and how much work is 1 man doing 1 by 20 divided by 4 means 1 by 80 ok and how much work is 6 boys doing in 1 day so 6 boys do the work in 1 day 1 by 20 of the work and how much work is 1 boy doing in 1 day 1 by 20 divided by 6 means 1 by 120 ok now in how many days 6 men and 11 boys finish it so now let's take out 1 day work in 1 day 6 men and 11 boys ok now how much work is 1 boy doing 1 by 80 1 man doing 1 by 80 so how much work is 6 men doing 6 by 80 plus 1 boy doing 1 by 20 so how much work is 1 man doing 11 by 1 by 20 11 by 1 by 20 11 by 120 ok so this is the work of 1 day now let's take out the answer so this is 1 240 240 will be the answer 318 plus 22 means 40 40 by 240 divided by 6 sorry 1 by 6 so 6 men and 11 boys are doing 1 by 6 of the work in 1 day so how much time will it take 6 days ok so i guess we have covered the questions in description box there are some questions that you guys can try with the answers and if you have any doubt you can ask me over linkedin or over instagram thank you"
+}
