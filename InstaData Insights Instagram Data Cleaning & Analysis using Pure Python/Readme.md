@@ -45,7 +45,6 @@ Computed on the full dataset of **107 profiles**:
 | Most posts                | `startuphub_blr` (Startup Hub Bangalore): 2,300 |
 | Most followers            | `_anujsinghal` (Anuj Singhal): 681,000          |
 | Follows the most accounts | `bangalore_tech_bro` (Rahul \| HSR Hustler): 890 |
-| Unique profile categories | 34                                              |
 | Total profiles            | 107                                             |
 
 ---
