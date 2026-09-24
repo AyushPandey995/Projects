@@ -12,14 +12,6 @@ The California housing dataset describes housing districts across the state. Thi
 
 ## 📈 Results
 
-Evaluated on the 20% held-out test set:
-
-| Metric | Value |
-| ------ | ----- |
-| RMSE   | XXXX  |
-| MAE    | XXXX  |
-| R²     | XXXX  |
-
 **Sample predictions** (from `predicted.csv`):
 
 | Actual `median_house_value` | Predicted `median_house_value` |
